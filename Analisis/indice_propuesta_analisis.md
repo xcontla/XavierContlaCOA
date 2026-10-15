@@ -41,7 +41,12 @@ Para que la sección 7 tenga números reales y no solo método:
 - A5. Distribución de respuestas en MEPSI P-III B (sesgos de respuesta). La comparación papel (2019) frente a línea sale de A1, por año.
 - A6. Congruencia aptitud-interés (área del interés más alto frente a la aptitud más alta).
 
-## Preguntas para Xavier
+## Respuestas de Xavier (14-oct-2026)
+1. **Herramientas:** aún no hay una herramienta institucional. Se empezó un análisis exploratorio en Python solo para PROUNAM, con pocos resultados (carpeta `primer_analisis`). MEPSI no tiene análisis. → La propuesta parte de ese piloto: lo formaliza y lo extiende a MEPSI.
+2. **Resultados de MEPSI:** Xavier consolidará en un solo archivo los Excel de resultados de todos los programas (carpeta `resultados_mepsi`).
+3. **Trayectoria:** no se sabe si el aspirante fue admitido; ese dato lo tiene cada programa. → Va como trabajo futuro: un acuerdo con los programas para que devuelvan la lista de aceptados (validez predictiva del MEPSI).
+
+## Preguntas originales
 1. ¿Qué herramientas tienes disponibles o se usan en la DGOAE para análisis (Python, R, SPSS, Excel, Power BI, Tableau)? Las propondría como complemento, pero el tablero lo plantearía con el mismo stack (Spring MVC + AngularJS) por coherencia con la convocatoria.
 2. ¿Conservas los Excel de resultados de MEPSI por programa (los que genera el script de calificación)? Con un par de ellos podría ilustrar el análisis de escalas de MEPSI sin tocar la base de datos.
 3. ¿Existe algún vínculo, o se ha intentado, con datos de trayectoria (carrera a la que ingresó el alumno, o si el aspirante fue admitido al posgrado)? Aunque no exista, lo plantearía como línea futura.
