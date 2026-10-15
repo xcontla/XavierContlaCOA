@@ -1,0 +1,2744 @@
+c_operacion,operaciones
+"Creo el alumno",1083
+"Envio de información: REGISTRO",1064
+"Actualizó datos generales del estudiante",515
+"Borro todas las pruebas del usuario y el cuestionario sociodemográfico",252
+"Habilito el usuario",227
+"Descargó CSV varios ids",196
+"Borro todas las pruebas del usuario",169
+"Actualizó datos personales del estudiante",160
+"Actualizó datos academicos del estudiante",126
+"Creo el Orientador",43
+"Deshabilito el usuario",33
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 229",33
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: -2",31
+"Descargó CSV  -> id_escuela_facultad: 86",14
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: -2",13
+"Borro sociodemográficos",12
+"Descargó CSV  -> id_escuela_facultad: 85",11
+"Descargó CSV  -> id_escuela_facultad: 95",10
+"Descargó CSV  -> id_escuela_facultad: 88",10
+"Descargó CSV  -> id_escuela_facultad: 90",10
+"Descargó CSV  -> id_escuela_facultad: 89",9
+"Descargó CSV  -> id_escuela_facultad: 91",9
+"Registro Masivo: Error al guardar a los alumnos total: 3 Guardados: 0 Rechazados: 2 -> id_escuela_facultad: 229",8
+"Actualizó datos generales del usuario",8
+"Descargó CSV  -> id_escuela_facultad: 96",7
+"Registro Masivo: Error al guardar a los alumnos total: 2 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 229",7
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 85",7
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 98",7
+"Descargó CSV  -> id_escuela_facultad: 92",7
+"Descargó CSV  -> id_escuela_facultad: 93",6
+"Descargó CSV  -> id_escuela_facultad: 94",6
+"Actualizó datos personales del usuario",6
+"Descargó CSV  -> id_escuela_facultad: 97",6
+"Descargó CSV  -> id_escuela_facultad: 98",6
+"Descargó CSV  -> id_escuela_facultad: 99",6
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 97",5
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 96",5
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 205",5
+"Registro Masivo:  total: 100 Guardados: 0 Rechazados: 100 -> id_escuela_facultad: 229",5
+"Descargó CSV -> id_escuela_facultad: 54864",4
+"Creo el usuario",4
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 94",4
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 95",4
+"Descargó CSV -> id_escuela_facultad: 100583",4
+"Registro Masivo:  total: 800 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 96",4
+"Registro Masivo:  total: 850 Guardados: 850 Rechazados: 0 -> id_escuela_facultad: 96",4
+"Registro Masivo:  total: 4 Guardados: 4 Rechazados: 0 -> id_escuela_facultad: 229",4
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 88",4
+"Registro Masivo:  total: 7 Guardados: 7 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Registro Masivo:  total: 11 Guardados: 11 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Descargó CSV -> id_escuela_facultad: 98568",3
+"Registro Masivo:  total: 20 Guardados: 20 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 86",3
+"PREREGISTRO: Registrar a usuario en POE: 328",3
+"Descargó CSV -> id_escuela_facultad: 62049",3
+"Descargó CSV -> id_escuela_facultad: 113111",3
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 99",3
+"Registro Masivo:  total: 41 Guardados: 0 Rechazados: 41 -> id_escuela_facultad: 10029",3
+"PREREGISTRO: Registrar a usuario en POE: 616",3
+"Registro Masivo:  total: 3 Guardados: 3 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Descargó CSV -> id_escuela_facultad: 85231",3
+"Registro Masivo:  total: 800 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 99",3
+"Registro Masivo:  total: 66 Guardados: 0 Rechazados: 66 -> id_escuela_facultad: 229",3
+"Descargó CSV -> id_escuela_facultad: 112170",3
+"Registro Masivo:  total: 18 Guardados: 18 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Registro Masivo:  total: 16 Guardados: 16 Rechazados: 0 -> id_escuela_facultad: 229",3
+"Descargó CSV -> id_escuela_facultad: 77739",3
+"PREREGISTRO: Registrar a usuario en POE: 81",3
+"Descargó CSV -> id_escuela_facultad: 96799",3
+"Registro Masivo:  total: 10 Guardados: 9 Rechazados: 1 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 985",2
+"PREREGISTRO: Pago de prueba: 74",2
+"Descargó CSV -> id_escuela_facultad: 98963",2
+"PREREGISTRO: Reenvío información: 469",2
+"Registro Masivo: Error al guardar a los alumnos total: 2 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 10022",2
+"PREREGISTRO: Registrar a usuario en POE: 105",2
+"PREREGISTRO: Registrar a usuario en POE: 266",2
+"PREREGISTRO: Registrar a usuario en POE: 917",2
+"PREREGISTRO: Registrar a usuario en POE: 279",2
+"Descargó CSV -> id_escuela_facultad: 112155",2
+"Registro Masivo:  total: 2 Guardados: 2 Rechazados: 0 -> id_escuela_facultad: 229",2
+"Descargó CSV -> id_escuela_facultad: 63492",2
+"PREREGISTRO: Registrar a usuario en POE: 89",2
+"PREREGISTRO: Registrar a usuario en POE: 298",2
+"PREREGISTRO: Registrar a usuario en POE: 267",2
+"Registro Masivo:  total: 700 Guardados: 699 Rechazados: 1 -> id_escuela_facultad: 98",2
+"PREREGISTRO: Registrar a usuario en POE: 138",2
+"PREREGISTRO: Pago de prueba: 780",2
+"PREREGISTRO: Registrar a usuario en POE: 268",2
+"Descargó CSV  -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 741",2
+"PREREGISTRO: Registrar a usuario en POE: 367",2
+"PREREGISTRO: Registrar a usuario en POE: 306",2
+"PREREGISTRO: Registrar a usuario en POE: 241",2
+"PREREGISTRO: Registrar a usuario en POE: 179",2
+"PREREGISTRO: Registrar a usuario en POE: 93",2
+"Descargó CSV -> id_escuela_facultad: 111286",2
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 92",2
+"PREREGISTRO: Registrar a usuario en POE: 718",2
+"Descargó CSV -> id_escuela_facultad: 103588",2
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 93",2
+"Registro Masivo:  total: 700 Guardados: 0 Rechazados: 700 -> id_escuela_facultad: 98",2
+"PREREGISTRO: Registrar a usuario en POE: 283",2
+"PREREGISTRO: Registrar a usuario en POE: 307",2
+"PREREGISTRO: Pago de prueba: 140",2
+"PREREGISTRO: Registrar a usuario en POE: 237",2
+"Descargó CSV -> id_escuela_facultad: 51475",2
+"Registro Masivo: Error al guardar a los alumnos total: 2 Guardados: 1 Rechazados: 0 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 909",2
+"Registro Masivo:  total: 9 Guardados: 9 Rechazados: 0 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 290",2
+"Descargó CSV -> id_escuela_facultad: 99210",2
+"PREREGISTRO: Registrar a usuario en POE: 371",2
+"PREREGISTRO: Registrar a usuario en POE: 308",2
+"Descargó CSV -> id_escuela_facultad: 84066",2
+"PREREGISTRO: Registrar a usuario en POE: 977",2
+"Registro Masivo: Error al guardar a los alumnos total: 5 Guardados: 0 Rechazados: 4 -> id_escuela_facultad: 85",2
+"PREREGISTRO: Registrar a usuario en POE: 465",2
+"PREREGISTRO: Registrar a usuario en POE: 539",2
+"Registro Masivo: Error al guardar a los alumnos total: 4 Guardados: 0 Rechazados: 3 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 227",2
+"Registro Masivo:  total: 66 Guardados: 15 Rechazados: 51 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 812",2
+"PREREGISTRO: Registrar a usuario en POE: 858",2
+"Registro Masivo: Error al guardar a los alumnos total: 5 Guardados: 0 Rechazados: 4 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 978",2
+"PREREGISTRO: Registrar a usuario en POE: 540",2
+"PREREGISTRO: Registrar a usuario en POE: 303",2
+"PREREGISTRO: Registrar a usuario en POE: 201",2
+"Registro Masivo:  total: 800 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 98",2
+"Descargó CSV -> id_escuela_facultad: 77935",2
+"PREREGISTRO: Registrar a usuario en POE: 872",2
+"PREREGISTRO: Registrar a usuario en POE: 386",2
+"Registro Masivo: Error al guardar a los alumnos total: 4 Guardados: 3 Rechazados: 0 -> id_escuela_facultad: 229",2
+"Descargó CSV -> id_escuela_facultad: 96795",2
+"Descargó CSV -> id_escuela_facultad: 112418",2
+"PREREGISTRO: Pago de prueba: 1054",2
+"Descargó CSV -> id_escuela_facultad: 98847",2
+"PREREGISTRO: Registrar a usuario en POE: 333",2
+"Registro Masivo:  total: 1055 Guardados: 1055 Rechazados: 0 -> id_escuela_facultad: 99",2
+"PREREGISTRO: Registrar a usuario en POE: 883",2
+"PREREGISTRO: Registrar a usuario en POE: 1038",2
+"PREREGISTRO: Pago de prueba: 670",2
+"PREREGISTRO: Registrar a usuario en POE: 767",2
+"Descargó CSV -> id_escuela_facultad: 118960",2
+"PREREGISTRO: Pago de prueba: 203",2
+"Descargó CSV -> id_escuela_facultad: 103479",2
+"PREREGISTRO: Pago de prueba: 12",2
+"Registro Masivo:  total: 1 Guardados: 1 Rechazados: 0 -> id_escuela_facultad: 229",2
+"Registro Masivo:  total: 29 Guardados: 29 Rechazados: 0 -> id_escuela_facultad: 229",2
+"Descargó CSV -> id_escuela_facultad: 100496",2
+"Registro Masivo:  total: 3 Guardados: 0 Rechazados: 3 -> id_escuela_facultad: 229",2
+"Registro Masivo:  total: 850 Guardados: 0 Rechazados: 850 -> id_escuela_facultad: 93",2
+"PREREGISTRO: Deshabilitar usuario: 301",2
+"PREREGISTRO: Registrar a usuario en POE: 558",2
+"Descargó CSV -> id_escuela_facultad: 85220",2
+"PREREGISTRO: Registrar a usuario en POE: 215",2
+"Descargó CSV -> id_escuela_facultad: 100472",2
+"PREREGISTRO: Registrar a usuario en POE: 594",2
+"PREREGISTRO: Registrar a usuario en POE: 905",2
+"Registro Masivo:  total: 6 Guardados: 5 Rechazados: 1 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 80",2
+"PREREGISTRO: Registrar a usuario en POE: 1055",2
+"Registro Masivo: Error al guardar a los alumnos total: 11 Guardados: 2 Rechazados: 8 -> id_escuela_facultad: 229",2
+"PREREGISTRO: Registrar a usuario en POE: 534",2
+"Registro Masivo:  total: 21 Guardados: 21 Rechazados: 0 -> id_escuela_facultad: 229",2
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 10021",2
+"PREREGISTRO: Pago de prueba: 671",2
+"PREREGISTRO: Registrar a usuario en POE: 1012",2
+"Descargó CSV -> id_escuela_facultad: 64851",2
+"PREREGISTRO: Pago de prueba: 42",2
+"PREREGISTRO: Registrar a usuario en POE: 292",2
+"PREREGISTRO: Registrar a usuario en POE: 906",2
+"Descargó CSV -> id_escuela_facultad: 77574",2
+"PREREGISTRO: Registrar a usuario en POE: 798",2
+"PREREGISTRO: Registrar a usuario en POE: 916",2
+"Registro Masivo:  total: 900 Guardados: 900 Rechazados: 0 -> id_escuela_facultad: 96",2
+"PREREGISTRO: Registrar a usuario en POE: 277",2
+"PREREGISTRO: Pago de prueba: 469",2
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 96",2
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 1042",2
+"Registro Masivo:  total: 850 Guardados: 846 Rechazados: 4 -> id_escuela_facultad: 97",2
+"PREREGISTRO: Pago de prueba: 2",2
+"Registro Masivo: Error al guardar a los alumnos total: 18 Guardados: 0 Rechazados: 17 -> id_escuela_facultad: 10021",1
+"PREREGISTRO: Pago de prueba: 137",1
+"PREREGISTRO: Registrar a usuario en POE: 1013",1
+"PREREGISTRO: Registrar a usuario en POE: 410",1
+"PREREGISTRO: Registrar a usuario en POE: 250",1
+"PREREGISTRO: Registrar a usuario en POE: 631",1
+"PREREGISTRO: Registrar a usuario en POE: 761",1
+"Descargó CSV -> id_escuela_facultad: 108968",1
+"PREREGISTRO: Pago de prueba: 101",1
+"PREREGISTRO: Registrar a usuario en POE: 966",1
+"Registro Masivo:  total: 700 Guardados: 53 Rechazados: 647 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 38",1
+"PREREGISTRO: Deshabilitar usuario: 223",1
+"PREREGISTRO: Pago de prueba: 594",1
+"PREREGISTRO: Registrar a usuario en POE: 779",1
+"Descargó CSV -> id_escuela_facultad: 111373",1
+"PREREGISTRO: Registrar a usuario en POE: 57",1
+"Registro Masivo: Error al guardar a los alumnos total: 10 Guardados: 1 Rechazados: 8 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 352",1
+"Registro Masivo:  total: 750 Guardados: 750 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Registro Masivo:  total: 417 Guardados: 82 Rechazados: 335 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 522",1
+"PREREGISTRO: Pago de prueba: 718",1
+"PREREGISTRO: Registrar a usuario en POE: 847",1
+"PREREGISTRO: Registrar a usuario en POE: 1074",1
+"Registro Masivo:  total: 75 Guardados: 66 Rechazados: 9 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 185",1
+"PREREGISTRO: Registrar a usuario en POE: 463",1
+"PREREGISTRO: Deshabilitar usuario: 327",1
+"Descargó CSV -> id_escuela_facultad: 78024",1
+"PREREGISTRO: Pago de prueba: 685",1
+"PREREGISTRO: Registrar a usuario en POE: 857",1
+"Registro Masivo: Error al guardar a los alumnos total: 35 Guardados: 0 Rechazados: 34 -> id_escuela_facultad: 10027",1
+"PREREGISTRO: Registrar a usuario en POE: 140",1
+"PREREGISTRO: Registrar a usuario en POE: 1024",1
+"PREREGISTRO: Pago de prueba: 417",1
+"PREREGISTRO: Pago de prueba: 269",1
+"PREREGISTRO: Pago de prueba: 641",1
+"PREREGISTRO: Pago de prueba: 815",1
+"PREREGISTRO: Pago de prueba: 105",1
+"PREREGISTRO: Registrar a usuario en POE: 974",1
+"PREREGISTRO: Pago de prueba: 358",1
+"PREREGISTRO: Registrar a usuario en POE: 293",1
+"PREREGISTRO: Registrar a usuario en POE: 597",1
+"PREREGISTRO: Pago de prueba: 791",1
+"Descargó CSV -> id_escuela_facultad: 101143",1
+"PREREGISTRO: Pago de prueba: 65",1
+"Registro Masivo:  total: 10 Guardados: 2 Rechazados: 8 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 486",1
+"PREREGISTRO: Pago de prueba: 8",1
+"PREREGISTRO: Pago de prueba: 207",1
+"PREREGISTRO: Registrar a usuario en POE: 535",1
+"PREREGISTRO: Pago de prueba: 734",1
+"PREREGISTRO: Pago de prueba: 907",1
+"PREREGISTRO: Registrar a usuario en POE: 1073",1
+"Borro idUsuarioExamen: 482511",1
+"PREREGISTRO: Pago de prueba: 197",1
+"PREREGISTRO: Registrar a usuario en POE: 474",1
+"PREREGISTRO: Pago de prueba: 335",1
+"Registro Masivo:  total: 24 Guardados: 21 Rechazados: 3 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 681",1
+"PREREGISTRO: Registrar a usuario en POE: 844",1
+"Registro Masivo:  total: 770 Guardados: 721 Rechazados: 49 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Pago de prueba: 153",1
+"PREREGISTRO: Registrar a usuario en POE: 1033",1
+"PREREGISTRO: Registrar a usuario en POE: 421",1
+"PREREGISTRO: Registrar a usuario en POE: 265",1
+"PREREGISTRO: Registrar a usuario en POE: 644",1
+"PREREGISTRO: Pago de prueba: 824",1
+"Descargó CSV -> id_escuela_facultad: 117555",1
+"PREREGISTRO: Pago de prueba: 118",1
+"PREREGISTRO: Registrar a usuario en POE: 343",1
+"PREREGISTRO: Registrar a usuario en POE: 295",1
+"PREREGISTRO: Pago de prueba: 614",1
+"PREREGISTRO: Registrar a usuario en POE: 789",1
+"Descargó CSV -> id_escuela_facultad: 100202",1
+"PREREGISTRO: Pago de prueba: 944",1
+"PREREGISTRO: Registrar a usuario en POE: 493",1
+"PREREGISTRO: Pago de prueba: 16",1
+"Registro Masivo: Error al guardar a los alumnos total: 19 Guardados: 0 Rechazados: 18 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 547",1
+"PREREGISTRO: Registrar a usuario en POE: 730",1
+"PREREGISTRO: Pago de prueba: 917",1
+"Registro Masivo:  total: 306 Guardados: 97 Rechazados: 209 -> id_escuela_facultad: 93",1
+"Borro idUsuarioExamen: 539988",1
+"Registro Masivo:  total: 900 Guardados: 899 Rechazados: 1 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 484",1
+"Registro Masivo:  total: 800 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Descargó CSV -> id_escuela_facultad: 96752",1
+"PREREGISTRO: Registrar a usuario en POE: 695",1
+"PREREGISTRO: Pago de prueba: 886",1
+"Registro Masivo:  total: 835 Guardados: 783 Rechazados: 52 -> id_escuela_facultad: 94",1
+"PREREGISTRO: Registrar a usuario en POE: 158",1
+"PREREGISTRO: Pago de prueba: 434",1
+"PREREGISTRO: Registrar a usuario en POE: 278",1
+"Descargó CSV -> id_escuela_facultad: 77665",1
+"PREREGISTRO: Pago de prueba: 660",1
+"PREREGISTRO: Registrar a usuario en POE: 811",1
+"Descargó CSV -> id_escuela_facultad: 114808",1
+"PREREGISTRO: Registrar a usuario en POE: 118",1
+"PREREGISTRO: Registrar a usuario en POE: 995",1
+"PREREGISTRO: Pago de prueba: 401",1
+"PREREGISTRO: Pago de prueba: 216",1
+"PREREGISTRO: Registrar a usuario en POE: 609",1
+"PREREGISTRO: Registrar a usuario en POE: 544",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 239",1
+"PREREGISTRO: Reenvío información: 81",1
+"PREREGISTRO: Registrar a usuario en POE: 940",1
+"PREREGISTRO: Registrar a usuario en POE: 13",1
+"PREREGISTRO: Registrar a usuario en POE: 217",1
+"PREREGISTRO: Registrar a usuario en POE: 563",1
+"PREREGISTRO: Registrar a usuario en POE: 738",1
+"Registro Masivo:  total: 5 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 201",1
+"PREREGISTRO: Registrar a usuario en POE: 896",1
+"PREREGISTRO: Registrar a usuario en POE: 342",1
+"Registro Masivo:  total: 5 Guardados: 3 Rechazados: 2 -> id_escuela_facultad: 96",1
+"Registro Masivo:  total: 777 Guardados: 761 Rechazados: 16 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 497",1
+"PREREGISTRO: Pago de prueba: 706",1
+"Registro Masivo:  total: 32 Guardados: 31 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Deshabilitar usuario: 810",1
+"PREREGISTRO: Pago de prueba: 1048",1
+"Registro Masivo:  total: 76 Guardados: 76 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 168",1
+"PREREGISTRO: Pago de prueba: 443",1
+"PREREGISTRO: Pago de prueba: 314",1
+"Descargó CSV -> id_escuela_facultad: 77848",1
+"PREREGISTRO: Registrar a usuario en POE: 656",1
+"PREREGISTRO: Pago de prueba: 826",1
+"PREREGISTRO: Pago de prueba: 129",1
+"PREREGISTRO: Registrar a usuario en POE: 1004",1
+"PREREGISTRO: Registrar a usuario en POE: 396",1
+"PREREGISTRO: Pago de prueba: 259",1
+"PREREGISTRO: Registrar a usuario en POE: 623",1
+"PREREGISTRO: Registrar a usuario en POE: 569",1
+"Registro Masivo: Error al guardar a los alumnos total: 41 Guardados: 0 Rechazados: 40 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Pago de prueba: 89",1
+"PREREGISTRO: Registrar a usuario en POE: 956",1
+"Registro Masivo:  total: 850 Guardados: 848 Rechazados: 2 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 30",1
+"PREREGISTRO: Registrar a usuario en POE: 239",1
+"PREREGISTRO: Registrar a usuario en POE: 583",1
+"PREREGISTRO: Pago de prueba: 762",1
+"Descargó CSV -> id_escuela_facultad: 98674",1
+"PREREGISTRO: Pago de prueba: 55",1
+"PREREGISTRO: Pago de prueba: 955",1
+"PREREGISTRO: Registrar a usuario en POE: 368",1
+"PREREGISTRO: Pago de prueba: 1",1
+"Borro idUsuarioExamen: 1670789",1
+"PREREGISTRO: Registrar a usuario en POE: 509",1
+"PREREGISTRO: Registrar a usuario en POE: 702",1
+"Registro Masivo:  total: 1463 Guardados: 1463 Rechazados: 0 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 884",1
+"PREREGISTRO: Pago de prueba: 1062",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 176",1
+"PREREGISTRO: Pago de prueba: 454",1
+"PREREGISTRO: Pago de prueba: 318",1
+"PREREGISTRO: Pago de prueba: 673",1
+"PREREGISTRO: Registrar a usuario en POE: 835",1
+"Registro Masivo: Error al guardar a los alumnos total: 20 Guardados: 0 Rechazados: 19 -> id_escuela_facultad: 10022",1
+"PREREGISTRO: Registrar a usuario en POE: 137",1
+"PREREGISTRO: Pago de prueba: 1015",1
+"PREREGISTRO: Pago de prueba: 411",1
+"PREREGISTRO: Registrar a usuario en POE: 251",1
+"PREREGISTRO: Pago de prueba: 632",1
+"PREREGISTRO: Registrar a usuario en POE: 763",1
+"Descargó CSV -> id_escuela_facultad: 118507",1
+"PREREGISTRO: Pago de prueba: 102",1
+"PREREGISTRO: Pago de prueba: 967",1
+"Registro Masivo:  total: 623 Guardados: 1 Rechazados: 622 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 39",1
+"PREREGISTRO: Deshabilitar usuario: 224",1
+"PREREGISTRO: Pago de prueba: 595",1
+"Borro idUsuarioExamen: 2150100",1
+"Descargó CSV -> id_escuela_facultad: 111042",1
+"PREREGISTRO: Registrar a usuario en POE: 58",1
+"Registro Masivo: Error al guardar a los alumnos total: 18 Guardados: 4 Rechazados: 13 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 353",1
+"Registro Masivo:  total: 734 Guardados: 734 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Borro idUsuarioExamen: 1834612",1
+"PREREGISTRO: Pago de prueba: 523",1
+"PREREGISTRO: Pago de prueba: 719",1
+"Descargó CSV -> id_escuela_facultad: 99724",1
+"PREREGISTRO: Registrar a usuario en POE: 851",1
+"Registro Masivo:  total: 1229 Guardados: 1228 Rechazados: 1 -> id_escuela_facultad: 86",1
+"Borro idUsuarioExamen: 1329194",1
+"PREREGISTRO: Pago de prueba: 186",1
+"PREREGISTRO: Pago de prueba: 464",1
+"PREREGISTRO: Pago de prueba: 329",1
+"PREREGISTRO: Pago de prueba: 686",1
+"PREREGISTRO: Registrar a usuario en POE: 856",1
+"Registro Masivo: Error al guardar a los alumnos total: 36 Guardados: 0 Rechazados: 35 -> id_escuela_facultad: 10028",1
+"PREREGISTRO: Registrar a usuario en POE: 141",1
+"PREREGISTRO: Pago de prueba: 1025",1
+"PREREGISTRO: Pago de prueba: 416",1
+"PREREGISTRO: Pago de prueba: 270",1
+"PREREGISTRO: Pago de prueba: 642",1
+"PREREGISTRO: Pago de prueba: 812",1
+"Registro Masivo:  total: 780 Guardados: 780 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 975",1
+"PREREGISTRO: Pago de prueba: 359",1
+"PREREGISTRO: Registrar a usuario en POE: 296",1
+"PREREGISTRO: Registrar a usuario en POE: 598",1
+"PREREGISTRO: Pago de prueba: 790",1
+"PREREGISTRO: Registrar a usuario en POE: 65",1
+"Registro Masivo: Error al guardar a los alumnos total: 82 Guardados: 13 Rechazados: 68 -> id_escuela_facultad: 83",1
+"PREREGISTRO: Registrar a usuario en POE: 486",1
+"PREREGISTRO: Pago de prueba: 10",1
+"PREREGISTRO: Registrar a usuario en POE: 206",1
+"PREREGISTRO: Pago de prueba: 536",1
+"PREREGISTRO: Pago de prueba: 735",1
+"PREREGISTRO: Registrar a usuario en POE: 907",1
+"PREREGISTRO: Registrar a usuario en POE: 1075",1
+"Borro idUsuarioExamen: 482681",1
+"PREREGISTRO: Registrar a usuario en POE: 190",1
+"PREREGISTRO: Pago de prueba: 475",1
+"PREREGISTRO: Registrar a usuario en POE: 335",1
+"Registro Masivo:  total: 10 Guardados: 10 Rechazados: 0 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 682",1
+"PREREGISTRO: Pago de prueba: 879",1
+"Registro Masivo:  total: 759 Guardados: 676 Rechazados: 83 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Registrar a usuario en POE: 153",1
+"PREREGISTRO: Pago de prueba: 1034",1
+"PREREGISTRO: Registrar a usuario en POE: 422",1
+"PREREGISTRO: Registrar a usuario en POE: 645",1
+"PREREGISTRO: Registrar a usuario en POE: 824",1
+"Descargó CSV -> id_escuela_facultad: 118371",1
+"PREREGISTRO: Pago de prueba: 119",1
+"PREREGISTRO: Pago de prueba: 986",1
+"PREREGISTRO: Registrar a usuario en POE: 347",1
+"PREREGISTRO: Registrar a usuario en POE: 294",1
+"PREREGISTRO: Pago de prueba: 615",1
+"PREREGISTRO: Registrar a usuario en POE: 790",1
+"Descargó CSV -> id_escuela_facultad: 63007",1
+"PREREGISTRO: Pago de prueba: 75",1
+"PREREGISTRO: Pago de prueba: 945",1
+"Borro idUsuarioExamen: 1897638",1
+"PREREGISTRO: Pago de prueba: 17",1
+"Registro Masivo:  total: 42 Guardados: 0 Rechazados: 42 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 548",1
+"PREREGISTRO: Registrar a usuario en POE: 731",1
+"Registro Masivo:  total: 143 Guardados: 45 Rechazados: 98 -> id_escuela_facultad: 94",1
+"Borro idUsuarioExamen: 539977",1
+"Registro Masivo:  total: 852 Guardados: 852 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Pago de prueba: 487",1
+"Registro Masivo:  total: 444 Guardados: 444 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Descargó CSV -> id_escuela_facultad: 96753",1
+"PREREGISTRO: Pago de prueba: 696",1
+"PREREGISTRO: Registrar a usuario en POE: 886",1
+"Registro Masivo:  total: 800 Guardados: 416 Rechazados: 384 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Registrar a usuario en POE: 159",1
+"PREREGISTRO: Registrar a usuario en POE: 434",1
+"Descargó CSV -> id_escuela_facultad: 77668",1
+"PREREGISTRO: Pago de prueba: 661",1
+"PREREGISTRO: Registrar a usuario en POE: 805",1
+"Registro Masivo:  total: 166 Guardados: 166 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 119",1
+"PREREGISTRO: Pago de prueba: 996",1
+"PREREGISTRO: Pago de prueba: 402",1
+"PREREGISTRO: Pago de prueba: 221",1
+"PREREGISTRO: Registrar a usuario en POE: 610",1
+"PREREGISTRO: Registrar a usuario en POE: 543",1
+"Registro Masivo:  total: 43 Guardados: 40 Rechazados: 3 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Reenvío información: 80",1
+"PREREGISTRO: Registrar a usuario en POE: 941",1
+"PREREGISTRO: Registrar a usuario en POE: 469",1
+"PREREGISTRO: Registrar a usuario en POE: 14",1
+"PREREGISTRO: Registrar a usuario en POE: 238",1
+"PREREGISTRO: Pago de prueba: 571",1
+"PREREGISTRO: Registrar a usuario en POE: 739",1
+"PREREGISTRO: Registrar a usuario en POE: 37",1
+"PREREGISTRO: Registrar a usuario en POE: 892",1
+"PREREGISTRO: Registrar a usuario en POE: 354",1
+"Registro Masivo:  total: 84 Guardados: 84 Rechazados: 0 -> id_escuela_facultad: 229",1
+"Borro idUsuarioExamen: 1671380",1
+"PREREGISTRO: Pago de prueba: 498",1
+"PREREGISTRO: Pago de prueba: 707",1
+"PREREGISTRO: Pago de prueba: 898",1
+"PREREGISTRO: Registrar a usuario en POE: 1048",1
+"Descargó CSV -> id_escuela_facultad: 55138",1
+"PREREGISTRO: Registrar a usuario en POE: 169",1
+"PREREGISTRO: Registrar a usuario en POE: 443",1
+"PREREGISTRO: Pago de prueba: 315",1
+"PREREGISTRO: Registrar a usuario en POE: 657",1
+"PREREGISTRO: Registrar a usuario en POE: 826",1
+"Registro Masivo: Error al guardar a los alumnos total: 3 Guardados: 0 Rechazados: 2 -> id_escuela_facultad: 10023",1
+"PREREGISTRO: Registrar a usuario en POE: 129",1
+"PREREGISTRO: Pago de prueba: 1005",1
+"PREREGISTRO: Registrar a usuario en POE: 397",1
+"PREREGISTRO: Pago de prueba: 260",1
+"PREREGISTRO: Pago de prueba: 624",1
+"PREREGISTRO: Registrar a usuario en POE: 570",1
+"Registro Masivo:  total: 1387 Guardados: 1298 Rechazados: 89 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Pago de prueba: 957",1
+"Registro Masivo:  total: 850 Guardados: 839 Rechazados: 11 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 31",1
+"PREREGISTRO: Registrar a usuario en POE: 240",1
+"PREREGISTRO: Pago de prueba: 584",1
+"PREREGISTRO: Pago de prueba: 767",1
+"Descargó CSV -> id_escuela_facultad: 92776",1
+"PREREGISTRO: Pago de prueba: 56",1
+"PREREGISTRO: Registrar a usuario en POE: 955",1
+"PREREGISTRO: Pago de prueba: 369",1
+"PREREGISTRO: Registrar a usuario en POE: 1",1
+"Borro idUsuarioExamen: 1670788",1
+"PREREGISTRO: Pago de prueba: 510",1
+"PREREGISTRO: Registrar a usuario en POE: 703",1
+"Registro Masivo:  total: 1625 Guardados: 1555 Rechazados: 70 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Pago de prueba: 887",1
+"PREREGISTRO: Registrar a usuario en POE: 1062",1
+"Registro Masivo:  total: 156 Guardados: 155 Rechazados: 1 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 177",1
+"PREREGISTRO: Registrar a usuario en POE: 454",1
+"PREREGISTRO: Pago de prueba: 319",1
+"PREREGISTRO: Registrar a usuario en POE: 670",1
+"PREREGISTRO: Registrar a usuario en POE: 829",1
+"PREREGISTRO: Pago de prueba: 321",1
+"Registro Masivo:  total: 35 Guardados: 32 Rechazados: 3 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 671",1
+"PREREGISTRO: Registrar a usuario en POE: 843",1
+"Registro Masivo: Error al guardar a los alumnos total: 21 Guardados: 0 Rechazados: 20 -> id_escuela_facultad: 10022",1
+"PREREGISTRO: Pago de prueba: 138",1
+"PREREGISTRO: Registrar a usuario en POE: 1015",1
+"PREREGISTRO: Registrar a usuario en POE: 411",1
+"PREREGISTRO: Registrar a usuario en POE: 252",1
+"PREREGISTRO: Registrar a usuario en POE: 632",1
+"PREREGISTRO: Registrar a usuario en POE: 764",1
+"Registro Masivo:  total: 1699 Guardados: 1693 Rechazados: 6 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 103",1
+"PREREGISTRO: Registrar a usuario en POE: 967",1
+"Registro Masivo:  total: 184 Guardados: 22 Rechazados: 162 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 40",1
+"PREREGISTRO: Registrar a usuario en POE: 230",1
+"PREREGISTRO: Pago de prueba: 596",1
+"Borro idUsuarioExamen: 2097162",1
+"Descargó CSV -> id_escuela_facultad: 111610",1
+"PREREGISTRO: Registrar a usuario en POE: 59",1
+"Registro Masivo: Error al guardar a los alumnos total: 18 Guardados: 3 Rechazados: 14 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 356",1
+"Registro Masivo:  total: 800 Guardados: 709 Rechazados: 91 -> id_escuela_facultad: 91",1
+"Registro Masivo:  total: 591 Guardados: 554 Rechazados: 37 -> id_escuela_facultad: 83",1
+"PREREGISTRO: Registrar a usuario en POE: 523",1
+"PREREGISTRO: Pago de prueba: 720",1
+"Registro Masivo:  total: 17 Guardados: 17 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 876",1
+"Registro Masivo:  total: 1230 Guardados: 1230 Rechazados: 0 -> id_escuela_facultad: 88",1
+"Registro Masivo:  total: 18 Guardados: 17 Rechazados: 1 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 186",1
+"PREREGISTRO: Registrar a usuario en POE: 464",1
+"PREREGISTRO: Pago de prueba: 328",1
+"Borro idUsuarioExamen: 414710",1
+"PREREGISTRO: Pago de prueba: 687",1
+"PREREGISTRO: Registrar a usuario en POE: 854",1
+"Registro Masivo: Error al guardar a los alumnos total: 37 Guardados: 0 Rechazados: 36 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 142",1
+"PREREGISTRO: Registrar a usuario en POE: 1025",1
+"PREREGISTRO: Pago de prueba: 415",1
+"PREREGISTRO: Pago de prueba: 271",1
+"PREREGISTRO: Pago de prueba: 643",1
+"PREREGISTRO: Pago de prueba: 809",1
+"Registro Masivo:  total: 900 Guardados: 900 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 107",1
+"PREREGISTRO: Registrar a usuario en POE: 975",1
+"PREREGISTRO: Pago de prueba: 362",1
+"PREREGISTRO: Registrar a usuario en POE: 599",1
+"PREREGISTRO: Pago de prueba: 793",1
+"Registro Masivo:  total: 48 Guardados: 47 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 67",1
+"Registro Masivo:  total: 611 Guardados: 77 Rechazados: 534 -> id_escuela_facultad: 83",1
+"PREREGISTRO: Registrar a usuario en POE: 442",1
+"PREREGISTRO: Pago de prueba: 11",1
+"PREREGISTRO: Registrar a usuario en POE: 207",1
+"PREREGISTRO: Registrar a usuario en POE: 536",1
+"PREREGISTRO: Pago de prueba: 736",1
+"Registro Masivo:  total: 66 Guardados: 66 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 908",1
+"Registro Masivo:  total: 2359 Guardados: 2352 Rechazados: 7 -> id_escuela_facultad: 90",1
+"Borro idUsuarioExamen: 471910",1
+"PREREGISTRO: Registrar a usuario en POE: 191",1
+"PREREGISTRO: Registrar a usuario en POE: 475",1
+"PREREGISTRO: Registrar a usuario en POE: 337",1
+"Registro Masivo:  total: 10 Guardados: 0 Rechazados: 10 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 683",1
+"PREREGISTRO: Pago de prueba: 880",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 155",1
+"PREREGISTRO: Registrar a usuario en POE: 1034",1
+"PREREGISTRO: Registrar a usuario en POE: 423",1
+"PREREGISTRO: Registrar a usuario en POE: 646",1
+"PREREGISTRO: Pago de prueba: 821",1
+"Descargó CSV -> id_escuela_facultad: 58797",1
+"PREREGISTRO: Pago de prueba: 120",1
+"PREREGISTRO: Registrar a usuario en POE: 986",1
+"PREREGISTRO: Registrar a usuario en POE: 348",1
+"PREREGISTRO: Pago de prueba: 287",1
+"PREREGISTRO: Pago de prueba: 616",1
+"PREREGISTRO: Registrar a usuario en POE: 791",1
+"Descargó CSV -> id_escuela_facultad: 63845",1
+"PREREGISTRO: Pago de prueba: 76",1
+"PREREGISTRO: Pago de prueba: 946",1
+"PREREGISTRO: Registrar a usuario en POE: 504",1
+"PREREGISTRO: Pago de prueba: 18",1
+"PREREGISTRO: Reenvío información: 245",1
+"PREREGISTRO: Registrar a usuario en POE: 548",1
+"PREREGISTRO: Registrar a usuario en POE: 732",1
+"Descargó CSV -> id_escuela_facultad: 99217",1
+"PREREGISTRO: Pago de prueba: 918",1
+"Registro Masivo:  total: 494 Guardados: 163 Rechazados: 331 -> id_escuela_facultad: 90",1
+"Borro idUsuarioExamen: 539962",1
+"PREREGISTRO: Registrar a usuario en POE: 487",1
+"Registro Masivo:  total: 900 Guardados: 791 Rechazados: 109 -> id_escuela_facultad: 91",1
+"Descargó CSV -> id_escuela_facultad: 96761",1
+"PREREGISTRO: Registrar a usuario en POE: 696",1
+"PREREGISTRO: Pago de prueba: 897",1
+"PREREGISTRO: Pago de prueba: 1041",1
+"Registro Masivo: Error al guardar a los alumnos total: 6 Guardados: 0 Rechazados: 5 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 160",1
+"PREREGISTRO: Pago de prueba: 435",1
+"PREREGISTRO: Deshabilitar usuario: 279",1
+"Descargó CSV -> id_escuela_facultad: 77669",1
+"PREREGISTRO: Pago de prueba: 662",1
+"PREREGISTRO: Pago de prueba: 850",1
+"Registro Masivo:  total: 67 Guardados: 67 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 120",1
+"PREREGISTRO: Registrar a usuario en POE: 996",1
+"PREREGISTRO: Pago de prueba: 403",1
+"PREREGISTRO: Pago de prueba: 225",1
+"PREREGISTRO: Registrar a usuario en POE: 611",1
+"PREREGISTRO: Registrar a usuario en POE: 545",1
+"PREREGISTRO: Pago de prueba: 82",1
+"PREREGISTRO: Registrar a usuario en POE: 942",1
+"Descargó CSV -> id_escuela_facultad: 228810",1
+"PREREGISTRO: Registrar a usuario en POE: 15",1
+"PREREGISTRO: Registrar a usuario en POE: 218",1
+"PREREGISTRO: Registrar a usuario en POE: 571",1
+"PREREGISTRO: Registrar a usuario en POE: 740",1
+"Descargó CSV -> id_escuela_facultad: 112175",1
+"PREREGISTRO: Pago de prueba: 43",1
+"PREREGISTRO: Registrar a usuario en POE: 877",1
+"PREREGISTRO: Registrar a usuario en POE: 360",1
+"Registro Masivo:  total: 6 Guardados: 6 Rechazados: 0 -> id_escuela_facultad: 96",1
+"Borro idUsuarioExamen: 1670722",1
+"PREREGISTRO: Registrar a usuario en POE: 498",1
+"PREREGISTRO: Pago de prueba: 708",1
+"PREREGISTRO: Registrar a usuario en POE: 898",1
+"PREREGISTRO: Pago de prueba: 1049",1
+"Registro Masivo:  total: 499 Guardados: 296 Rechazados: 203 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 170",1
+"PREREGISTRO: Pago de prueba: 444",1
+"PREREGISTRO: Registrar a usuario en POE: 305",1
+"Descargó CSV -> id_escuela_facultad: 63039",1
+"PREREGISTRO: Registrar a usuario en POE: 658",1
+"PREREGISTRO: Registrar a usuario en POE: 828",1
+"Registro Masivo: Error al guardar a los alumnos total: 4 Guardados: 0 Rechazados: 3 -> id_escuela_facultad: 10024",1
+"PREREGISTRO: Pago de prueba: 136",1
+"PREREGISTRO: Registrar a usuario en POE: 1005",1
+"PREREGISTRO: Registrar a usuario en POE: 399",1
+"PREREGISTRO: Registrar a usuario en POE: 208",1
+"PREREGISTRO: Registrar a usuario en POE: 624",1
+"PREREGISTRO: Registrar a usuario en POE: 572",1
+"Registro Masivo:  total: 934 Guardados: 492 Rechazados: 442 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Pago de prueba: 90",1
+"PREREGISTRO: Registrar a usuario en POE: 957",1
+"Registro Masivo:  total: 413 Guardados: 406 Rechazados: 7 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 32",1
+"PREREGISTRO: Registrar a usuario en POE: 242",1
+"PREREGISTRO: Pago de prueba: 585",1
+"PREREGISTRO: Pago de prueba: 773",1
+"Descargó CSV -> id_escuela_facultad: 89886",1
+"PREREGISTRO: Pago de prueba: 57",1
+"PREREGISTRO: Registrar a usuario en POE: 932",1
+"PREREGISTRO: Registrar a usuario en POE: 369",1
+"PREREGISTRO: Registrar a usuario en POE: 2",1
+"Registro Masivo: Error al guardar a los alumnos total: 6 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 510",1
+"PREREGISTRO: Registrar a usuario en POE: 704",1
+"Registro Masivo:  total: 1830 Guardados: 1712 Rechazados: 118 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Pago de prueba: 889",1
+"Registro Masivo:  total: 12 Guardados: 2 Rechazados: 10 -> id_escuela_facultad: 240",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 33",1
+"PREREGISTRO: Pago de prueba: 178",1
+"PREREGISTRO: Registrar a usuario en POE: 455",1
+"PREREGISTRO: Pago de prueba: 456",1
+"PREREGISTRO: Registrar a usuario en POE: 318",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 1326",1
+"PREREGISTRO: Registrar a usuario en POE: 672",1
+"PREREGISTRO: Pago de prueba: 862",1
+"Registro Masivo: Error al guardar a los alumnos total: 22 Guardados: 0 Rechazados: 21 -> id_escuela_facultad: 10022",1
+"PREREGISTRO: Pago de prueba: 1016",1
+"PREREGISTRO: Pago de prueba: 431",1
+"PREREGISTRO: Registrar a usuario en POE: 253",1
+"PREREGISTRO: Pago de prueba: 633",1
+"PREREGISTRO: Registrar a usuario en POE: 766",1
+"Registro Masivo: Error al guardar a los alumnos total: 19 Guardados: 18 Rechazados: 0 -> id_escuela_facultad: 31",1
+"PREREGISTRO: Pago de prueba: 104",1
+"PREREGISTRO: Pago de prueba: 968",1
+"PREREGISTRO: Registrar a usuario en POE: 518",1
+"PREREGISTRO: Pago de prueba: 41",1
+"PREREGISTRO: Registrar a usuario en POE: 236",1
+"PREREGISTRO: Pago de prueba: 597",1
+"Descargó CSV -> id_escuela_facultad: 110786",1
+"PREREGISTRO: Pago de prueba: 60",1
+"Registro Masivo: Error al guardar a los alumnos total: 36 Guardados: 9 Rechazados: 26 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 398",1
+"Registro Masivo:  total: 841 Guardados: 841 Rechazados: 0 -> id_escuela_facultad: 91",1
+"Registro Masivo:  total: 37 Guardados: 37 Rechazados: 0 -> id_escuela_facultad: 83",1
+"PREREGISTRO: Pago de prueba: 525",1
+"PREREGISTRO: Pago de prueba: 721",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 881",1
+"Registro Masivo:  total: 1321 Guardados: 1316 Rechazados: 5 -> id_escuela_facultad: 89",1
+"Registro Masivo:  total: 149 Guardados: 142 Rechazados: 7 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 187",1
+"PREREGISTRO: Pago de prueba: 466",1
+"Borro idUsuarioExamen: 414711",1
+"PREREGISTRO: Pago de prueba: 688",1
+"PREREGISTRO: Pago de prueba: 844",1
+"Registro Masivo: Error al guardar a los alumnos total: 38 Guardados: 0 Rechazados: 37 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 143",1
+"PREREGISTRO: Pago de prueba: 1026",1
+"PREREGISTRO: Pago de prueba: 414",1
+"PREREGISTRO: Pago de prueba: 272",1
+"Borro idUsuarioExamen: 410413",1
+"PREREGISTRO: Pago de prueba: 644",1
+"PREREGISTRO: Pago de prueba: 808",1
+"Registro Masivo:  total: 883 Guardados: 883 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 106",1
+"PREREGISTRO: Pago de prueba: 976",1
+"PREREGISTRO: Pago de prueba: 372",1
+"PREREGISTRO: Registrar a usuario en POE: 300",1
+"PREREGISTRO: Registrar a usuario en POE: 600",1
+"PREREGISTRO: Pago de prueba: 796",1
+"Descargó CSV -> id_escuela_facultad: 63336",1
+"PREREGISTRO: Pago de prueba: 68",1
+"PREREGISTRO: Pago de prueba: 927",1
+"PREREGISTRO: Registrar a usuario en POE: 448",1
+"PREREGISTRO: Registrar a usuario en POE: 4",1
+"PREREGISTRO: Pago de prueba: 210",1
+"PREREGISTRO: Pago de prueba: 537",1
+"PREREGISTRO: Pago de prueba: 737",1
+"Descargó CSV -> id_escuela_facultad: 112044",1
+"PREREGISTRO: Registrar a usuario en POE: 908",1
+"Registro Masivo:  total: 1620 Guardados: 1613 Rechazados: 7 -> id_escuela_facultad: 91",1
+"Borro idUsuarioExamen: 472038",1
+"PREREGISTRO: Registrar a usuario en POE: 192",1
+"PREREGISTRO: Pago de prueba: 476",1
+"PREREGISTRO: Registrar a usuario en POE: 338",1
+"Registro Masivo:  total: 3496 Guardados: 3478 Rechazados: 18 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 684",1
+"PREREGISTRO: Pago de prueba: 878",1
+"Registro Masivo:  total: 750 Guardados: 609 Rechazados: 141 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 154",1
+"PREREGISTRO: Pago de prueba: 1035",1
+"PREREGISTRO: Registrar a usuario en POE: 424",1
+"Registro Masivo:  total: 26 Guardados: 5 Rechazados: 21 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 647",1
+"PREREGISTRO: Registrar a usuario en POE: 821",1
+"Registro Masivo:  total: 730 Guardados: 14 Rechazados: 716 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 121",1
+"PREREGISTRO: Pago de prueba: 987",1
+"PREREGISTRO: Pago de prueba: 350",1
+"PREREGISTRO: Pago de prueba: 286",1
+"PREREGISTRO: Pago de prueba: 617",1
+"PREREGISTRO: Registrar a usuario en POE: 792",1
+"Descargó CSV -> id_escuela_facultad: 74601",1
+"PREREGISTRO: Pago de prueba: 77",1
+"PREREGISTRO: Pago de prueba: 947",1
+"PREREGISTRO: Deshabilitar usuario: 344",1
+"PREREGISTRO: Pago de prueba: 19",1
+"PREREGISTRO: Pago de prueba: 220",1
+"PREREGISTRO: Pago de prueba: 549",1
+"PREREGISTRO: Registrar a usuario en POE: 733",1
+"Descargó CSV -> id_escuela_facultad: 99394",1
+"PREREGISTRO: Registrar a usuario en POE: 918",1
+"Registro Masivo:  total: 3 Guardados: 3 Rechazados: 0 -> id_escuela_facultad: 88",1
+"Borro idUsuarioExamen: 942418",1
+"Registro Masivo:  total: 700 Guardados: 700 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 488",1
+"Registro Masivo:  total: 898 Guardados: 897 Rechazados: 1 -> id_escuela_facultad: 91",1
+"Descargó CSV -> id_escuela_facultad: 96762",1
+"PREREGISTRO: Pago de prueba: 697",1
+"PREREGISTRO: Registrar a usuario en POE: 897",1
+"PREREGISTRO: Registrar a usuario en POE: 1041",1
+"Registro Masivo: Error al guardar a los alumnos total: 7 Guardados: 0 Rechazados: 6 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 161",1
+"PREREGISTRO: Registrar a usuario en POE: 435",1
+"PREREGISTRO: Registrar a usuario en POE: 280",1
+"Descargó CSV -> id_escuela_facultad: 50170",1
+"PREREGISTRO: Pago de prueba: 663",1
+"PREREGISTRO: Registrar a usuario en POE: 850",1
+"Descargó CSV -> id_escuela_facultad: 87054",1
+"PREREGISTRO: Registrar a usuario en POE: 121",1
+"PREREGISTRO: Pago de prueba: 998",1
+"PREREGISTRO: Pago de prueba: 404",1
+"PREREGISTRO: Pago de prueba: 231",1
+"PREREGISTRO: Registrar a usuario en POE: 612",1
+"PREREGISTRO: Registrar a usuario en POE: 550",1
+"PREREGISTRO: Registrar a usuario en POE: 82",1
+"PREREGISTRO: Registrar a usuario en POE: 943",1
+"PREREGISTRO: Registrar a usuario en POE: 515",1
+"PREREGISTRO: Registrar a usuario en POE: 16",1
+"PREREGISTRO: Registrar a usuario en POE: 219",1
+"PREREGISTRO: Pago de prueba: 575",1
+"Descargó CSV -> id_escuela_facultad: 98450",1
+"PREREGISTRO: Pago de prueba: 44",1
+"PREREGISTRO: Registrar a usuario en POE: 873",1
+"Registro Masivo:  total: 7 Guardados: 6 Rechazados: 1 -> id_escuela_facultad: 96",1
+"Borro idUsuarioExamen: 1672375",1
+"PREREGISTRO: Pago de prueba: 499",1
+"PREREGISTRO: Pago de prueba: 709",1
+"Registro Masivo:  total: 59 Guardados: 59 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Deshabilitar usuario: 903",1
+"PREREGISTRO: Registrar a usuario en POE: 1049",1
+"Registro Masivo:  total: 499 Guardados: 496 Rechazados: 3 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 171",1
+"PREREGISTRO: Registrar a usuario en POE: 444",1
+"PREREGISTRO: Registrar a usuario en POE: 659",1
+"PREREGISTRO: Registrar a usuario en POE: 830",1
+"Registro Masivo: Error al guardar a los alumnos total: 5 Guardados: 0 Rechazados: 4 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 135",1
+"PREREGISTRO: Pago de prueba: 1007",1
+"PREREGISTRO: Pago de prueba: 400",1
+"PREREGISTRO: Registrar a usuario en POE: 245",1
+"PREREGISTRO: Pago de prueba: 625",1
+"PREREGISTRO: Registrar a usuario en POE: 573",1
+"Registro Masivo:  total: 889 Guardados: 888 Rechazados: 1 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Pago de prueba: 91",1
+"PREREGISTRO: Pago de prueba: 958",1
+"Registro Masivo:  total: 850 Guardados: 849 Rechazados: 1 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 20",1
+"PREREGISTRO: Pago de prueba: 586",1
+"PREREGISTRO: Pago de prueba: 774",1
+"Descargó CSV -> id_escuela_facultad: 92230",1
+"PREREGISTRO: Pago de prueba: 58",1
+"PREREGISTRO: Registrar a usuario en POE: 933",1
+"PREREGISTRO: Pago de prueba: 366",1
+"PREREGISTRO: Pago de prueba: 3",1
+"Registro Masivo:  total: 10 Guardados: 3 Rechazados: 7 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 511",1
+"PREREGISTRO: Registrar a usuario en POE: 705",1
+"Registro Masivo:  total: 1713 Guardados: 1591 Rechazados: 122 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 891",1
+"Registro Masivo:  total: 12 Guardados: 0 Rechazados: 12 -> id_escuela_facultad: 229",1
+"Registro Masivo:  total: 10 Guardados: 10 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 178",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 33",1
+"PREREGISTRO: Registrar a usuario en POE: 456",1
+"PREREGISTRO: Registrar a usuario en POE: 319",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 6",1
+"PREREGISTRO: Registrar a usuario en POE: 673",1
+"PREREGISTRO: Pago de prueba: 860",1
+"Registro Masivo: Error al guardar a los alumnos total: 23 Guardados: 0 Rechazados: 22 -> id_escuela_facultad: 10022",1
+"PREREGISTRO: Pago de prueba: 139",1
+"PREREGISTRO: Registrar a usuario en POE: 1016",1
+"PREREGISTRO: Pago de prueba: 430",1
+"PREREGISTRO: Registrar a usuario en POE: 254",1
+"PREREGISTRO: Registrar a usuario en POE: 633",1
+"PREREGISTRO: Registrar a usuario en POE: 749",1
+"Registro Masivo:  total: 1000 Guardados: 980 Rechazados: 20 -> id_escuela_facultad: 31",1
+"PREREGISTRO: Registrar a usuario en POE: 968",1
+"PREREGISTRO: Registrar a usuario en POE: 519",1
+"PREREGISTRO: Registrar a usuario en POE: 42",1
+"PREREGISTRO: Deshabilitar usuario: 236",1
+"PREREGISTRO: Pago de prueba: 598",1
+"PREREGISTRO: Pago de prueba: 781",1
+"PREREGISTRO: Pago de prueba: 61",1
+"Registro Masivo: Error al guardar a los alumnos total: 23 Guardados: 2 Rechazados: 20 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 409",1
+"Descargó CSV -> id_escuela_facultad: 213787",1
+"PREREGISTRO: Registrar a usuario en POE: 525",1
+"PREREGISTRO: Pago de prueba: 722",1
+"PREREGISTRO: Registrar a usuario en POE: 884",1
+"PREREGISTRO: Pago de prueba: 1075",1
+"Descargó CSV -> id_escuela_facultad: 166110",1
+"PREREGISTRO: Registrar a usuario en POE: 187",1
+"PREREGISTRO: Registrar a usuario en POE: 466",1
+"PREREGISTRO: Registrar a usuario en POE: 329",1
+"Borro idUsuarioExamen: 414712",1
+"PREREGISTRO: Pago de prueba: 689",1
+"PREREGISTRO: Pago de prueba: 867",1
+"Registro Masivo: Error al guardar a los alumnos total: 39 Guardados: 0 Rechazados: 38 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 144",1
+"PREREGISTRO: Registrar a usuario en POE: 1026",1
+"PREREGISTRO: Pago de prueba: 413",1
+"PREREGISTRO: Pago de prueba: 273",1
+"PREREGISTRO: Pago de prueba: 645",1
+"PREREGISTRO: Pago de prueba: 806",1
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 107",1
+"PREREGISTRO: Registrar a usuario en POE: 976",1
+"PREREGISTRO: Pago de prueba: 376",1
+"PREREGISTRO: Pago de prueba: 246",1
+"PREREGISTRO: Pago de prueba: 602",1
+"PREREGISTRO: Pago de prueba: 795",1
+"PREREGISTRO: Registrar a usuario en POE: 67",1
+"PREREGISTRO: Pago de prueba: 930",1
+"PREREGISTRO: Registrar a usuario en POE: 450",1
+"PREREGISTRO: Registrar a usuario en POE: 5",1
+"PREREGISTRO: Registrar a usuario en POE: 210",1
+"PREREGISTRO: Registrar a usuario en POE: 537",1
+"Descargó CSV -> id_escuela_facultad: 111975",1
+"PREREGISTRO: Pago de prueba: 909",1
+"Registro Masivo: Error al guardar a los alumnos total: 528 Guardados: 522 Rechazados: 5 -> id_escuela_facultad: 92",1
+"Borro idUsuarioExamen: 472080",1
+"PREREGISTRO: Registrar a usuario en POE: 193",1
+"PREREGISTRO: Registrar a usuario en POE: 476",1
+"PREREGISTRO: Registrar a usuario en POE: 339",1
+"Registro Masivo:  total: 1699 Guardados: 1699 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 685",1
+"PREREGISTRO: Pago de prueba: 875",1
+"Registro Masivo:  total: 750 Guardados: 648 Rechazados: 102 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Registrar a usuario en POE: 155",1
+"PREREGISTRO: Registrar a usuario en POE: 1035",1
+"PREREGISTRO: Registrar a usuario en POE: 425",1
+"PREREGISTRO: Pago de prueba: 291",1
+"PREREGISTRO: Registrar a usuario en POE: 648",1
+"PREREGISTRO: Pago de prueba: 827",1
+"Borro idUsuarioExamen: 919961",1
+"PREREGISTRO: Pago de prueba: 122",1
+"PREREGISTRO: Registrar a usuario en POE: 987",1
+"PREREGISTRO: Registrar a usuario en POE: 350",1
+"PREREGISTRO: Deshabilitar usuario: 285",1
+"PREREGISTRO: Pago de prueba: 618",1
+"PREREGISTRO: Registrar a usuario en POE: 793",1
+"Descargó CSV -> id_escuela_facultad: 74010",1
+"PREREGISTRO: Pago de prueba: 78",1
+"PREREGISTRO: Pago de prueba: 948",1
+"PREREGISTRO: Deshabilitar usuario: 345",1
+"PREREGISTRO: Pago de prueba: 21",1
+"PREREGISTRO: Pago de prueba: 238",1
+"PREREGISTRO: Registrar a usuario en POE: 549",1
+"PREREGISTRO: Registrar a usuario en POE: 734",1
+"PREREGISTRO: Pago de prueba: 920",1
+"Borro idUsuarioExamen: 943873",1
+"PREREGISTRO: Registrar a usuario en POE: 488",1
+"Registro Masivo:  total: 800 Guardados: 642 Rechazados: 158 -> id_escuela_facultad: 92",1
+"Descargó CSV -> id_escuela_facultad: 96764",1
+"PREREGISTRO: Deshabilitar usuario: 912",1
+"PREREGISTRO: Pago de prueba: 1042",1
+"Registro Masivo: Error al guardar a los alumnos total: 8 Guardados: 0 Rechazados: 7 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 162",1
+"PREREGISTRO: Pago de prueba: 436",1
+"Descargó CSV -> id_escuela_facultad: 77672",1
+"PREREGISTRO: Pago de prueba: 664",1
+"PREREGISTRO: Reenvío información: 850",1
+"Descargó CSV -> id_escuela_facultad: 123981",1
+"PREREGISTRO: Registrar a usuario en POE: 122",1
+"PREREGISTRO: Registrar a usuario en POE: 998",1
+"PREREGISTRO: Pago de prueba: 405",1
+"PREREGISTRO: Pago de prueba: 233",1
+"PREREGISTRO: Registrar a usuario en POE: 613",1
+"PREREGISTRO: Registrar a usuario en POE: 551",1
+"PREREGISTRO: Pago de prueba: 83",1
+"PREREGISTRO: Registrar a usuario en POE: 944",1
+"PREREGISTRO: Registrar a usuario en POE: 517",1
+"PREREGISTRO: Registrar a usuario en POE: 17",1
+"PREREGISTRO: Registrar a usuario en POE: 220",1
+"PREREGISTRO: Registrar a usuario en POE: 575",1
+"PREREGISTRO: Registrar a usuario en POE: 742",1
+"Descargó CSV -> id_escuela_facultad: 98961",1
+"PREREGISTRO: Registrar a usuario en POE: 43",1
+"PREREGISTRO: Registrar a usuario en POE: 869",1
+"PREREGISTRO: Registrar a usuario en POE: 370",1
+"Registro Masivo:  total: 208 Guardados: 28 Rechazados: 180 -> id_escuela_facultad: 95",1
+"Borro idUsuarioExamen: 1672374",1
+"PREREGISTRO: Registrar a usuario en POE: 499",1
+"PREREGISTRO: Pago de prueba: 710",1
+"Registro Masivo:  total: 40 Guardados: 40 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 813",1
+"PREREGISTRO: Pago de prueba: 1050",1
+"Registro Masivo:  total: 499 Guardados: 494 Rechazados: 5 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 172",1
+"PREREGISTRO: Pago de prueba: 445",1
+"Descargó CSV -> id_escuela_facultad: 63050",1
+"PREREGISTRO: Registrar a usuario en POE: 660",1
+"PREREGISTRO: Registrar a usuario en POE: 831",1
+"Registro Masivo: Error al guardar a los alumnos total: 6 Guardados: 0 Rechazados: 5 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 134",1
+"PREREGISTRO: Registrar a usuario en POE: 1007",1
+"PREREGISTRO: Registrar a usuario en POE: 400",1
+"PREREGISTRO: Registrar a usuario en POE: 302",1
+"PREREGISTRO: Registrar a usuario en POE: 625",1
+"PREREGISTRO: Registrar a usuario en POE: 574",1
+"Registro Masivo: Error al guardar a los alumnos total: 951 Guardados: 604 Rechazados: 346 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 92",1
+"PREREGISTRO: Registrar a usuario en POE: 958",1
+"Registro Masivo:  total: 850 Guardados: 847 Rechazados: 3 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 26",1
+"PREREGISTRO: Registrar a usuario en POE: 243",1
+"PREREGISTRO: Registrar a usuario en POE: 584",1
+"PREREGISTRO: Pago de prueba: 776",1
+"Descargó CSV -> id_escuela_facultad: 83911",1
+"PREREGISTRO: Pago de prueba: 59",1
+"PREREGISTRO: Registrar a usuario en POE: 953",1
+"PREREGISTRO: Registrar a usuario en POE: 366",1
+"PREREGISTRO: Registrar a usuario en POE: 3",1
+"Borro idUsuarioExamen: 1671252",1
+"PREREGISTRO: Registrar a usuario en POE: 511",1
+"PREREGISTRO: Registrar a usuario en POE: 706",1
+"Registro Masivo:  total: 1556 Guardados: 1493 Rechazados: 63 -> id_escuela_facultad: 94",1
+"PREREGISTRO: Pago de prueba: 899",1
+"Registro Masivo:  total: 22 Guardados: 6 Rechazados: 16 -> id_escuela_facultad: 229",1
+"Registro Masivo:  total: 21 Guardados: 20 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 900",1
+"Registro Masivo:  total: 22 Guardados: 5 Rechazados: 17 -> id_escuela_facultad: 229",1
+"Registro Masivo:  total: 800 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 180",1
+"PREREGISTRO: Pago de prueba: 457",1
+"PREREGISTRO: Registrar a usuario en POE: 321",1
+"Registro Masivo: Error al guardar a los alumnos total: 2 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 6",1
+"PREREGISTRO: Pago de prueba: 674",1
+"PREREGISTRO: Pago de prueba: 859",1
+"Registro Masivo: Error al guardar a los alumnos total: 24 Guardados: 0 Rechazados: 23 -> id_escuela_facultad: 10023",1
+"PREREGISTRO: Pago de prueba: 1017",1
+"PREREGISTRO: Pago de prueba: 429",1
+"PREREGISTRO: Registrar a usuario en POE: 255",1
+"PREREGISTRO: Pago de prueba: 634",1
+"PREREGISTRO: Registrar a usuario en POE: 765",1
+"Registro Masivo:  total: 698 Guardados: 696 Rechazados: 2 -> id_escuela_facultad: 31",1
+"PREREGISTRO: Registrar a usuario en POE: 94",1
+"PREREGISTRO: Pago de prueba: 969",1
+"PREREGISTRO: Registrar a usuario en POE: 521",1
+"PREREGISTRO: Registrar a usuario en POE: 41",1
+"PREREGISTRO: Pago de prueba: 599",1
+"PREREGISTRO: Pago de prueba: 782",1
+"Descargó CSV -> id_escuela_facultad: 111642",1
+"PREREGISTRO: Registrar a usuario en POE: 60",1
+"Registro Masivo: Error al guardar a los alumnos total: 35 Guardados: 4 Rechazados: 30 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 346",1
+"Registro Masivo:  total: 860 Guardados: 631 Rechazados: 229 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Reenvío información: 200",1
+"PREREGISTRO: Pago de prueba: 528",1
+"PREREGISTRO: Pago de prueba: 723",1
+"PREREGISTRO: Registrar a usuario en POE: 887",1
+"PREREGISTRO: Pago de prueba: 1073",1
+"Registro Masivo:  total: 18 Guardados: 0 Rechazados: 18 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 188",1
+"PREREGISTRO: Pago de prueba: 467",1
+"PREREGISTRO: Pago de prueba: 331",1
+"Borro idUsuarioExamen: 414713",1
+"PREREGISTRO: Pago de prueba: 690",1
+"PREREGISTRO: Pago de prueba: 868",1
+"Registro Masivo: Error al guardar a los alumnos total: 40 Guardados: 0 Rechazados: 39 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 145",1
+"PREREGISTRO: Pago de prueba: 1027",1
+"PREREGISTRO: Pago de prueba: 412",1
+"PREREGISTRO: Pago de prueba: 274",1
+"PREREGISTRO: Pago de prueba: 646",1
+"PREREGISTRO: Registrar a usuario en POE: 808",1
+"Descargó CSV -> id_escuela_facultad: 123211",1
+"PREREGISTRO: Registrar a usuario en POE: 106",1
+"PREREGISTRO: Pago de prueba: 977",1
+"PREREGISTRO: Pago de prueba: 378",1
+"PREREGISTRO: Pago de prueba: 248",1
+"PREREGISTRO: Pago de prueba: 603",1
+"PREREGISTRO: Pago de prueba: 794",1
+"PREREGISTRO: Registrar a usuario en POE: 68",1
+"PREREGISTRO: Pago de prueba: 931",1
+"PREREGISTRO: Registrar a usuario en POE: 453",1
+"PREREGISTRO: Registrar a usuario en POE: 6",1
+"PREREGISTRO: Pago de prueba: 212",1
+"PREREGISTRO: Pago de prueba: 539",1
+"PREREGISTRO: Registrar a usuario en POE: 719",1
+"Descargó CSV -> id_escuela_facultad: 111976",1
+"Registro Masivo:  total: 1477 Guardados: 942 Rechazados: 535 -> id_escuela_facultad: 92",1
+"Borro idUsuarioExamen: 221521",1
+"PREREGISTRO: Registrar a usuario en POE: 194",1
+"PREREGISTRO: Pago de prueba: 477",1
+"PREREGISTRO: Registrar a usuario en POE: 341",1
+"Registro Masivo:  total: 1700 Guardados: 1700 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 686",1
+"PREREGISTRO: Registrar a usuario en POE: 880",1
+"Registro Masivo:  total: 750 Guardados: 606 Rechazados: 144 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Registrar a usuario en POE: 154",1
+"PREREGISTRO: Pago de prueba: 1036",1
+"PREREGISTRO: Registrar a usuario en POE: 426",1
+"PREREGISTRO: Pago de prueba: 303",1
+"PREREGISTRO: Registrar a usuario en POE: 649",1
+"PREREGISTRO: Registrar a usuario en POE: 538",1
+"Borro idUsuarioExamen: 909541",1
+"PREREGISTRO: Pago de prueba: 123",1
+"PREREGISTRO: Pago de prueba: 988",1
+"PREREGISTRO: Registrar a usuario en POE: 358",1
+"PREREGISTRO: Pago de prueba: 284",1
+"PREREGISTRO: Pago de prueba: 619",1
+"PREREGISTRO: Registrar a usuario en POE: 780",1
+"Descargó CSV -> id_escuela_facultad: 63859",1
+"PREREGISTRO: Pago de prueba: 79",1
+"PREREGISTRO: Pago de prueba: 949",1
+"PREREGISTRO: Deshabilitar usuario: 349",1
+"PREREGISTRO: Pago de prueba: 22",1
+"PREREGISTRO: Pago de prueba: 235",1
+"PREREGISTRO: Pago de prueba: 552",1
+"PREREGISTRO: Registrar a usuario en POE: 735",1
+"Registro Masivo:  total: 16 Guardados: 15 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 920",1
+"Registro Masivo:  total: 1 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 93",1
+"Borro idUsuarioExamen: 944263",1
+"Registro Masivo:  total: 700 Guardados: 695 Rechazados: 5 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 489",1
+"Registro Masivo:  total: 843 Guardados: 837 Rechazados: 6 -> id_escuela_facultad: 92",1
+"Descargó CSV -> id_escuela_facultad: 46742",1
+"PREREGISTRO: Pago de prueba: 902",1
+"PREREGISTRO: Registrar a usuario en POE: 1042",1
+"Registro Masivo: Error al guardar a los alumnos total: 9 Guardados: 0 Rechazados: 8 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 164",1
+"PREREGISTRO: Registrar a usuario en POE: 436",1
+"Descargó CSV -> id_escuela_facultad: 77679",1
+"PREREGISTRO: Pago de prueba: 665",1
+"PREREGISTRO: Registrar a usuario en POE: 848",1
+"PREREGISTRO: Registrar a usuario en POE: 123",1
+"PREREGISTRO: Pago de prueba: 999",1
+"PREREGISTRO: Pago de prueba: 406",1
+"PREREGISTRO: Pago de prueba: 234",1
+"PREREGISTRO: Registrar a usuario en POE: 614",1
+"PREREGISTRO: Registrar a usuario en POE: 553",1
+"PREREGISTRO: Registrar a usuario en POE: 83",1
+"PREREGISTRO: Registrar a usuario en POE: 945",1
+"Borro idUsuarioExamen: 1353186",1
+"PREREGISTRO: Registrar a usuario en POE: 18",1
+"PREREGISTRO: Registrar a usuario en POE: 226",1
+"PREREGISTRO: Pago de prueba: 577",1
+"PREREGISTRO: Registrar a usuario en POE: 743",1
+"PREREGISTRO: Registrar a usuario en POE: 44",1
+"PREREGISTRO: Registrar a usuario en POE: 864",1
+"Registro Masivo:  total: 5 Guardados: 4 Rechazados: 1 -> id_escuela_facultad: 96",1
+"Borro idUsuarioExamen: 1671806",1
+"PREREGISTRO: Pago de prueba: 500",1
+"PREREGISTRO: Pago de prueba: 711",1
+"Descargó CSV -> id_escuela_facultad: 95491",1
+"PREREGISTRO: Pago de prueba: 814",1
+"PREREGISTRO: Registrar a usuario en POE: 1050",1
+"Registro Masivo:  total: 371 Guardados: 368 Rechazados: 3 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Registrar a usuario en POE: 170",1
+"PREREGISTRO: Registrar a usuario en POE: 445",1
+"Descargó CSV -> id_escuela_facultad: 74559",1
+"PREREGISTRO: Registrar a usuario en POE: 661",1
+"PREREGISTRO: Registrar a usuario en POE: 836",1
+"Registro Masivo: Error al guardar a los alumnos total: 7 Guardados: 0 Rechazados: 6 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 133",1
+"PREREGISTRO: Pago de prueba: 1008",1
+"PREREGISTRO: Registrar a usuario en POE: 401",1
+"PREREGISTRO: Registrar a usuario en POE: 311",1
+"PREREGISTRO: Pago de prueba: 626",1
+"PREREGISTRO: Registrar a usuario en POE: 576",1
+"Registro Masivo: Error al guardar a los alumnos total: 951 Guardados: 950 Rechazados: 0 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Registrar a usuario en POE: 90",1
+"PREREGISTRO: Pago de prueba: 959",1
+"Registro Masivo:  total: 850 Guardados: 845 Rechazados: 5 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 33",1
+"PREREGISTRO: Pago de prueba: 244",1
+"PREREGISTRO: Registrar a usuario en POE: 585",1
+"PREREGISTRO: Pago de prueba: 778",1
+"PREREGISTRO: Registrar a usuario en POE: 45",1
+"PREREGISTRO: Registrar a usuario en POE: 954",1
+"PREREGISTRO: Pago de prueba: 363",1
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 85",1
+"Borro idUsuarioExamen: 1671250",1
+"PREREGISTRO: Pago de prueba: 512",1
+"PREREGISTRO: Registrar a usuario en POE: 707",1
+"Borro idUsuarioExamen: 402912",1
+"PREREGISTRO: Pago de prueba: 901",1
+"Borro idUsuarioExamen: 2174720",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 181",1
+"PREREGISTRO: Registrar a usuario en POE: 457",1
+"PREREGISTRO: Registrar a usuario en POE: 322",1
+"Registro Masivo:  total: 40 Guardados: 39 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 675",1
+"PREREGISTRO: Pago de prueba: 857",1
+"Registro Masivo: Error al guardar a los alumnos total: 25 Guardados: 0 Rechazados: 24 -> id_escuela_facultad: 10024",1
+"PREREGISTRO: Pago de prueba: 141",1
+"PREREGISTRO: Registrar a usuario en POE: 1017",1
+"PREREGISTRO: Pago de prueba: 428",1
+"PREREGISTRO: Registrar a usuario en POE: 256",1
+"PREREGISTRO: Registrar a usuario en POE: 634",1
+"PREREGISTRO: Registrar a usuario en POE: 768",1
+"Registro Masivo:  total: 1001 Guardados: 999 Rechazados: 2 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 969",1
+"PREREGISTRO: Registrar a usuario en POE: 527",1
+"PREREGISTRO: Registrar a usuario en POE: 40",1
+"PREREGISTRO: Pago de prueba: 247",1
+"PREREGISTRO: Pago de prueba: 600",1
+"PREREGISTRO: Pago de prueba: 783",1
+"Descargó CSV -> id_escuela_facultad: 86398",1
+"PREREGISTRO: Registrar a usuario en POE: 61",1
+"Registro Masivo: Error al guardar a los alumnos total: 40 Guardados: 0 Rechazados: 39 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 351",1
+"Registro Masivo:  total: 921 Guardados: 921 Rechazados: 0 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Reenvío información: 199",1
+"PREREGISTRO: Registrar a usuario en POE: 528",1
+"PREREGISTRO: Pago de prueba: 724",1
+"PREREGISTRO: Registrar a usuario en POE: 889",1
+"PREREGISTRO: Pago de prueba: 1072",1
+"Registro Masivo:  total: 14 Guardados: 14 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 188",1
+"PREREGISTRO: Registrar a usuario en POE: 467",1
+"PREREGISTRO: Pago de prueba: 332",1
+"Borro idUsuarioExamen: 414714",1
+"PREREGISTRO: Pago de prueba: 691",1
+"PREREGISTRO: Pago de prueba: 870",1
+"Registro Masivo: Error al guardar a los alumnos total: 41 Guardados: 0 Rechazados: 40 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 146",1
+"PREREGISTRO: Registrar a usuario en POE: 1027",1
+"PREREGISTRO: Registrar a usuario en POE: 412",1
+"PREREGISTRO: Pago de prueba: 275",1
+"PREREGISTRO: Pago de prueba: 647",1
+"PREREGISTRO: Registrar a usuario en POE: 815",1
+"Registro Masivo:  total: 900 Guardados: 900 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 108",1
+"PREREGISTRO: Pago de prueba: 379",1
+"PREREGISTRO: Registrar a usuario en POE: 246",1
+"PREREGISTRO: Pago de prueba: 604",1
+"PREREGISTRO: Registrar a usuario en POE: 782",1
+"PREREGISTRO: Pago de prueba: 69",1
+"PREREGISTRO: Pago de prueba: 934",1
+"PREREGISTRO: Registrar a usuario en POE: 7",1
+"PREREGISTRO: Registrar a usuario en POE: 212",1
+"PREREGISTRO: Registrar a usuario en POE: 720",1
+"Descargó CSV -> id_escuela_facultad: 112026",1
+"PREREGISTRO: Pago de prueba: 910",1
+"Registro Masivo:  total: 1647 Guardados: 1634 Rechazados: 13 -> id_escuela_facultad: 93",1
+"Borro idUsuarioExamen: 221367",1
+"PREREGISTRO: Registrar a usuario en POE: 195",1
+"PREREGISTRO: Registrar a usuario en POE: 477",1
+"Registro Masivo:  total: 799 Guardados: 719 Rechazados: 80 -> id_escuela_facultad: 85",1
+"Registro Masivo:  total: 1827 Guardados: 1826 Rechazados: 1 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 687",1
+"PREREGISTRO: Registrar a usuario en POE: 879",1
+"Registro Masivo:  total: 763 Guardados: 626 Rechazados: 137 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 156",1
+"PREREGISTRO: Registrar a usuario en POE: 1036",1
+"PREREGISTRO: Registrar a usuario en POE: 427",1
+"PREREGISTRO: Registrar a usuario en POE: 269",1
+"Descargó CSV -> id_escuela_facultad: 77744",1
+"PREREGISTRO: Registrar a usuario en POE: 650",1
+"PREREGISTRO: Registrar a usuario en POE: 804",1
+"Borro idUsuarioExamen: 908242",1
+"PREREGISTRO: Registrar a usuario en POE: 108",1
+"PREREGISTRO: Registrar a usuario en POE: 988",1
+"PREREGISTRO: Registrar a usuario en POE: 359",1
+"PREREGISTRO: Pago de prueba: 282",1
+"PREREGISTRO: Pago de prueba: 620",1
+"PREREGISTRO: Pago de prueba: 801",1
+"Registro Masivo:  total: 4 Guardados: 4 Rechazados: 0 -> id_escuela_facultad: 15",1
+"PREREGISTRO: Pago de prueba: 80",1
+"PREREGISTRO: Pago de prueba: 950",1
+"PREREGISTRO: Deshabilitar usuario: 377",1
+"PREREGISTRO: Pago de prueba: 23",1
+"PREREGISTRO: Pago de prueba: 232",1
+"PREREGISTRO: Registrar a usuario en POE: 552",1
+"PREREGISTRO: Registrar a usuario en POE: 736",1
+"Descargó CSV -> id_escuela_facultad: 104687",1
+"PREREGISTRO: Pago de prueba: 921",1
+"Borro idUsuarioExamen: 1865453",1
+"Borro idUsuarioExamen: 944528",1
+"Registro Masivo:  total: 700 Guardados: 696 Rechazados: 4 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 489",1
+"Registro Masivo:  total: 800 Guardados: 646 Rechazados: 154 -> id_escuela_facultad: 93",1
+"Descargó CSV -> id_escuela_facultad: 96733",1
+"PREREGISTRO: Registrar a usuario en POE: 902",1
+"PREREGISTRO: Pago de prueba: 1043",1
+"Registro Masivo: Error al guardar a los alumnos total: 10 Guardados: 0 Rechazados: 9 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 165",1
+"PREREGISTRO: Pago de prueba: 437",1
+"PREREGISTRO: Deshabilitar usuario: 290",1
+"Descargó CSV -> id_escuela_facultad: 77682",1
+"PREREGISTRO: Pago de prueba: 666",1
+"PREREGISTRO: Registrar a usuario en POE: 853",1
+"PREREGISTRO: Pago de prueba: 124",1
+"PREREGISTRO: Registrar a usuario en POE: 999",1
+"PREREGISTRO: Registrar a usuario en POE: 381",1
+"PREREGISTRO: Pago de prueba: 249",1
+"PREREGISTRO: Registrar a usuario en POE: 615",1
+"PREREGISTRO: Registrar a usuario en POE: 554",1
+"Descargó CSV -> id_escuela_facultad: 24745",1
+"PREREGISTRO: Pago de prueba: 84",1
+"PREREGISTRO: Registrar a usuario en POE: 946",1
+"Borro idUsuarioExamen: 1354605",1
+"PREREGISTRO: Registrar a usuario en POE: 19",1
+"PREREGISTRO: Registrar a usuario en POE: 577",1
+"PREREGISTRO: Registrar a usuario en POE: 744",1
+"Descargó CSV -> id_escuela_facultad: 98361",1
+"PREREGISTRO: Pago de prueba: 45",1
+"PREREGISTRO: Registrar a usuario en POE: 885",1
+"PREREGISTRO: Pago de prueba: 364",1
+"Registro Masivo:  total: 1 Guardados: 1 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Borro idUsuarioExamen: 1671805",1
+"PREREGISTRO: Registrar a usuario en POE: 500",1
+"PREREGISTRO: Pago de prueba: 712",1
+"Registro Masivo:  total: 35 Guardados: 34 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 820",1
+"PREREGISTRO: Pago de prueba: 1051",1
+"Descargó CSV -> id_escuela_facultad: 148419",1
+"PREREGISTRO: Registrar a usuario en POE: 171",1
+"PREREGISTRO: Pago de prueba: 446",1
+"PREREGISTRO: Registrar a usuario en POE: 309",1
+"Descargó CSV -> id_escuela_facultad: 69810",1
+"PREREGISTRO: Registrar a usuario en POE: 662",1
+"PREREGISTRO: Registrar a usuario en POE: 839",1
+"Registro Masivo: Error al guardar a los alumnos total: 8 Guardados: 0 Rechazados: 7 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 132",1
+"PREREGISTRO: Registrar a usuario en POE: 1008",1
+"PREREGISTRO: Registrar a usuario en POE: 402",1
+"PREREGISTRO: Registrar a usuario en POE: 312",1
+"PREREGISTRO: Registrar a usuario en POE: 626",1
+"PREREGISTRO: Registrar a usuario en POE: 578",1
+"Registro Masivo:  total: 807 Guardados: 807 Rechazados: 0 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Registrar a usuario en POE: 91",1
+"PREREGISTRO: Registrar a usuario en POE: 959",1
+"Registro Masivo:  total: 850 Guardados: 841 Rechazados: 9 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 34",1
+"PREREGISTRO: Registrar a usuario en POE: 244",1
+"PREREGISTRO: Registrar a usuario en POE: 586",1
+"PREREGISTRO: Pago de prueba: 779",1
+"Descargó CSV -> id_escuela_facultad: 82576",1
+"PREREGISTRO: Registrar a usuario en POE: 46",1
+"PREREGISTRO: Pago de prueba: 992",1
+"PREREGISTRO: Registrar a usuario en POE: 363",1
+"Registro Masivo:  total: 800 Guardados: 608 Rechazados: 192 -> id_escuela_facultad: 85",1
+"Registro Masivo:  total: 66 Guardados: 51 Rechazados: 15 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 512",1
+"PREREGISTRO: Registrar a usuario en POE: 708",1
+"Registro Masivo:  total: 756 Guardados: 756 Rechazados: 0 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 513",1
+"PREREGISTRO: Registrar a usuario en POE: 709",1
+"Borro idUsuarioExamen: 264216",1
+"PREREGISTRO: Pago de prueba: 904",1
+"PREREGISTRO: Pago de prueba: 1067",1
+"Registro Masivo:  total: 901 Guardados: 901 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 182",1
+"PREREGISTRO: Pago de prueba: 458",1
+"PREREGISTRO: Pago de prueba: 326",1
+"Descargó CSV -> id_escuela_facultad: 77734",1
+"PREREGISTRO: Pago de prueba: 676",1
+"PREREGISTRO: Pago de prueba: 856",1
+"Registro Masivo: Error al guardar a los alumnos total: 26 Guardados: 0 Rechazados: 25 -> id_escuela_facultad: 10024",1
+"PREREGISTRO: Pago de prueba: 142",1
+"PREREGISTRO: Pago de prueba: 1018",1
+"PREREGISTRO: Pago de prueba: 427",1
+"PREREGISTRO: Registrar a usuario en POE: 257",1
+"PREREGISTRO: Pago de prueba: 635",1
+"PREREGISTRO: Registrar a usuario en POE: 769",1
+"Registro Masivo:  total: 698 Guardados: 698 Rechazados: 0 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 96",1
+"PREREGISTRO: Pago de prueba: 970",1
+"PREREGISTRO: Registrar a usuario en POE: 532",1
+"PREREGISTRO: Registrar a usuario en POE: 39",1
+"PREREGISTRO: Registrar a usuario en POE: 247",1
+"PREREGISTRO: Pago de prueba: 601",1
+"PREREGISTRO: Pago de prueba: 784",1
+"Registro Masivo:  total: 12 Guardados: 11 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Deshabilitar usuario: 49",1
+"Registro Masivo: Error al guardar a los alumnos total: 43 Guardados: 0 Rechazados: 42 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 352",1
+"Registro Masivo:  total: 900 Guardados: 698 Rechazados: 202 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 202",1
+"PREREGISTRO: Pago de prueba: 529",1
+"PREREGISTRO: Pago de prueba: 725",1
+"PREREGISTRO: Registrar a usuario en POE: 891",1
+"PREREGISTRO: Pago de prueba: 1071",1
+"PREREGISTRO: Pago de prueba: 189",1
+"PREREGISTRO: Pago de prueba: 468",1
+"PREREGISTRO: Pago de prueba: 333",1
+"Borro idUsuarioExamen: 414715",1
+"PREREGISTRO: Pago de prueba: 692",1
+"PREREGISTRO: Pago de prueba: 871",1
+"PREREGISTRO: Registrar a usuario en POE: 147",1
+"PREREGISTRO: Pago de prueba: 1028",1
+"PREREGISTRO: Registrar a usuario en POE: 413",1
+"PREREGISTRO: Pago de prueba: 276",1
+"PREREGISTRO: Pago de prueba: 648",1
+"Descargó CSV -> id_escuela_facultad: 123294",1
+"PREREGISTRO: Pago de prueba: 109",1
+"PREREGISTRO: Pago de prueba: 978",1
+"PREREGISTRO: Pago de prueba: 381",1
+"PREREGISTRO: Registrar a usuario en POE: 248",1
+"PREREGISTRO: Pago de prueba: 605",1
+"PREREGISTRO: Registrar a usuario en POE: 783",1
+"Registro Masivo: Error al guardar a los alumnos total: 5 Guardados: 1 Rechazados: 3 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 70",1
+"PREREGISTRO: Pago de prueba: 935",1
+"PREREGISTRO: Registrar a usuario en POE: 470",1
+"PREREGISTRO: Registrar a usuario en POE: 8",1
+"Borro idUsuarioExamen: 1833197",1
+"PREREGISTRO: Pago de prueba: 540",1
+"PREREGISTRO: Registrar a usuario en POE: 721",1
+"Descargó CSV -> id_escuela_facultad: 111978",1
+"PREREGISTRO: Registrar a usuario en POE: 910",1
+"Registro Masivo:  total: 1573 Guardados: 1543 Rechazados: 30 -> id_escuela_facultad: 94",1
+"Borro idUsuarioExamen: 221299",1
+"PREREGISTRO: Registrar a usuario en POE: 196",1
+"PREREGISTRO: Pago de prueba: 478",1
+"Registro Masivo:  total: 623 Guardados: 623 Rechazados: 0 -> id_escuela_facultad: 85",1
+"Registro Masivo:  total: 1907 Guardados: 1907 Rechazados: 0 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 688",1
+"PREREGISTRO: Registrar a usuario en POE: 878",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Pago de prueba: 157",1
+"PREREGISTRO: Pago de prueba: 1037",1
+"PREREGISTRO: Registrar a usuario en POE: 428",1
+"PREREGISTRO: Registrar a usuario en POE: 270",1
+"Descargó CSV -> id_escuela_facultad: 77737",1
+"PREREGISTRO: Pago de prueba: 651",1
+"PREREGISTRO: Registrar a usuario en POE: 827",1
+"Borro idUsuarioExamen: 913700",1
+"PREREGISTRO: Registrar a usuario en POE: 109",1
+"PREREGISTRO: Pago de prueba: 989",1
+"PREREGISTRO: Registrar a usuario en POE: 362",1
+"PREREGISTRO: Registrar a usuario en POE: 282",1
+"PREREGISTRO: Registrar a usuario en POE: 601",1
+"PREREGISTRO: Registrar a usuario en POE: 801",1
+"Descargó CSV -> id_escuela_facultad: 97346",1
+"PREREGISTRO: Registrar a usuario en POE: 74",1
+"PREREGISTRO: Registrar a usuario en POE: 927",1
+"PREREGISTRO: Deshabilitar usuario: 383",1
+"PREREGISTRO: Pago de prueba: 24",1
+"PREREGISTRO: Pago de prueba: 229",1
+"PREREGISTRO: Pago de prueba: 555",1
+"PREREGISTRO: Registrar a usuario en POE: 737",1
+"Descargó CSV -> id_escuela_facultad: 105323",1
+"PREREGISTRO: Registrar a usuario en POE: 921",1
+"PREREGISTRO: Pago de prueba: 1099",1
+"Borro idUsuarioExamen: 944695",1
+"Registro Masivo:  total: 343 Guardados: 343 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 490",1
+"PREREGISTRO: Registrar a usuario en POE: 697",1
+"Registro Masivo:  total: 994 Guardados: 963 Rechazados: 31 -> id_escuela_facultad: 93",1
+"Descargó CSV -> id_escuela_facultad: 83358",1
+"Registro Masivo:  total: 19 Guardados: 19 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 1043",1
+"Registro Masivo: Error al guardar a los alumnos total: 11 Guardados: 0 Rechazados: 10 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 166",1
+"PREREGISTRO: Registrar a usuario en POE: 437",1
+"PREREGISTRO: Registrar a usuario en POE: 291",1
+"Descargó CSV -> id_escuela_facultad: 77683",1
+"PREREGISTRO: Pago de prueba: 667",1
+"PREREGISTRO: Pago de prueba: 125",1
+"PREREGISTRO: Pago de prueba: 1000",1
+"PREREGISTRO: Registrar a usuario en POE: 382",1
+"PREREGISTRO: Pago de prueba: 250",1
+"PREREGISTRO: Registrar a usuario en POE: 557",1
+"Descargó CSV -> id_escuela_facultad: 108904",1
+"PREREGISTRO: Registrar a usuario en POE: 84",1
+"PREREGISTRO: Registrar a usuario en POE: 947",1
+"Registro Masivo:  total: 15 Guardados: 15 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 20",1
+"PREREGISTRO: Registrar a usuario en POE: 235",1
+"PREREGISTRO: Pago de prueba: 579",1
+"PREREGISTRO: Registrar a usuario en POE: 745",1
+"Descargó CSV -> id_escuela_facultad: 98432",1
+"PREREGISTRO: Pago de prueba: 46",1
+"PREREGISTRO: Registrar a usuario en POE: 893",1
+"PREREGISTRO: Registrar a usuario en POE: 364",1
+"Descargó CSV -> id_escuela_facultad: 179748",1
+"Registro Masivo:  total: 1 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 501",1
+"PREREGISTRO: Pago de prueba: 713",1
+"Registro Masivo: Error al guardar a los alumnos total: 3 Guardados: 2 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 832",1
+"PREREGISTRO: Registrar a usuario en POE: 1051",1
+"Descargó CSV -> id_escuela_facultad: 118325",1
+"PREREGISTRO: Registrar a usuario en POE: 172",1
+"PREREGISTRO: Registrar a usuario en POE: 446",1
+"PREREGISTRO: Registrar a usuario en POE: 310",1
+"Descargó CSV -> id_escuela_facultad: 62737",1
+"PREREGISTRO: Registrar a usuario en POE: 663",1
+"PREREGISTRO: Registrar a usuario en POE: 840",1
+"Registro Masivo: Error al guardar a los alumnos total: 9 Guardados: 0 Rechazados: 8 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 131",1
+"PREREGISTRO: Pago de prueba: 1009",1
+"PREREGISTRO: Registrar a usuario en POE: 403",1
+"PREREGISTRO: Registrar a usuario en POE: 313",1
+"PREREGISTRO: Pago de prueba: 627",1
+"PREREGISTRO: Registrar a usuario en POE: 746",1
+"Registro Masivo:  total: 850 Guardados: 778 Rechazados: 72 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Registrar a usuario en POE: 92",1
+"PREREGISTRO: Pago de prueba: 960",1
+"Registro Masivo:  total: 220 Guardados: 217 Rechazados: 3 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 35",1
+"PREREGISTRO: Registrar a usuario en POE: 200",1
+"PREREGISTRO: Pago de prueba: 587",1
+"PREREGISTRO: Registrar a usuario en POE: 752",1
+"Descargó CSV -> id_escuela_facultad: 85173",1
+"PREREGISTRO: Registrar a usuario en POE: 47",1
+"PREREGISTRO: Registrar a usuario en POE: 992",1
+"PREREGISTRO: Pago de prueba: 388",1
+"Registro Masivo:  total: 750 Guardados: 604 Rechazados: 146 -> id_escuela_facultad: 86",1
+"Registro Masivo:  total: 63 Guardados: 50 Rechazados: 13 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 513",1
+"PREREGISTRO: Registrar a usuario en POE: 710",1
+"Borro idUsuarioExamen: 321177",1
+"PREREGISTRO: Registrar a usuario en POE: 813",1
+"PREREGISTRO: Pago de prueba: 1066",1
+"Registro Masivo:  total: 800 Guardados: 798 Rechazados: 2 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 183",1
+"PREREGISTRO: Registrar a usuario en POE: 458",1
+"PREREGISTRO: Pago de prueba: 325",1
+"Descargó CSV -> id_escuela_facultad: 77950",1
+"PREREGISTRO: Pago de prueba: 677",1
+"PREREGISTRO: Pago de prueba: 854",1
+"Registro Masivo: Error al guardar a los alumnos total: 27 Guardados: 0 Rechazados: 26 -> id_escuela_facultad: 10024",1
+"PREREGISTRO: Pago de prueba: 143",1
+"PREREGISTRO: Registrar a usuario en POE: 1018",1
+"PREREGISTRO: Pago de prueba: 426",1
+"PREREGISTRO: Registrar a usuario en POE: 258",1
+"PREREGISTRO: Registrar a usuario en POE: 635",1
+"PREREGISTRO: Registrar a usuario en POE: 770",1
+"Registro Masivo: Error al guardar a los alumnos total: 801 Guardados: 800 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 970",1
+"PREREGISTRO: Registrar a usuario en POE: 530",1
+"PREREGISTRO: Registrar a usuario en POE: 38",1
+"PREREGISTRO: Registrar a usuario en POE: 261",1
+"PREREGISTRO: Registrar a usuario en POE: 589",1
+"PREREGISTRO: Pago de prueba: 799",1
+"PREREGISTRO: Pago de prueba: 62",1
+"Registro Masivo: Error al guardar a los alumnos total: 51 Guardados: 4 Rechazados: 46 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 374",1
+"Registro Masivo:  total: 954 Guardados: 954 Rechazados: 0 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Registrar a usuario en POE: 202",1
+"PREREGISTRO: Registrar a usuario en POE: 529",1
+"PREREGISTRO: Pago de prueba: 726",1
+"PREREGISTRO: Registrar a usuario en POE: 899",1
+"PREREGISTRO: Pago de prueba: 1070",1
+"Registro Masivo:  total: 6 Guardados: 5 Rechazados: 1 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 189",1
+"PREREGISTRO: Registrar a usuario en POE: 468",1
+"PREREGISTRO: Registrar a usuario en POE: 331",1
+"Borro idUsuarioExamen: 414716",1
+"PREREGISTRO: Pago de prueba: 693",1
+"PREREGISTRO: Pago de prueba: 872",1
+"Descargó CSV -> id_escuela_facultad: 146709",1
+"PREREGISTRO: Registrar a usuario en POE: 148",1
+"PREREGISTRO: Registrar a usuario en POE: 1028",1
+"PREREGISTRO: Registrar a usuario en POE: 414",1
+"PREREGISTRO: Pago de prueba: 277",1
+"PREREGISTRO: Pago de prueba: 649",1
+"PREREGISTRO: Deshabilitar usuario: 812",1
+"Registro Masivo:  total: 939 Guardados: 939 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 110",1
+"PREREGISTRO: Pago de prueba: 382",1
+"PREREGISTRO: Pago de prueba: 301",1
+"PREREGISTRO: Pago de prueba: 606",1
+"PREREGISTRO: Registrar a usuario en POE: 784",1
+"Registro Masivo:  total: 6 Guardados: 6 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 71",1
+"PREREGISTRO: Pago de prueba: 936",1
+"PREREGISTRO: Registrar a usuario en POE: 479",1
+"PREREGISTRO: Registrar a usuario en POE: 9",1
+"PREREGISTRO: Pago de prueba: 204",1
+"PREREGISTRO: Registrar a usuario en POE: 722",1
+"Descargó CSV -> id_escuela_facultad: 111980",1
+"PREREGISTRO: Pago de prueba: 911",1
+"Registro Masivo:  total: 241 Guardados: 56 Rechazados: 185 -> id_escuela_facultad: 85",1
+"Borro idUsuarioExamen: 221239",1
+"PREREGISTRO: Registrar a usuario en POE: 197",1
+"PREREGISTRO: Registrar a usuario en POE: 478",1
+"Registro Masivo:  total: 800 Guardados: 694 Rechazados: 106 -> id_escuela_facultad: 86",1
+"Registro Masivo:  total: 1890 Guardados: 1885 Rechazados: 5 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 689",1
+"PREREGISTRO: Registrar a usuario en POE: 875",1
+"Registro Masivo:  total: 869 Guardados: 843 Rechazados: 26 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Pago de prueba: 158",1
+"PREREGISTRO: Registrar a usuario en POE: 1037",1
+"PREREGISTRO: Registrar a usuario en POE: 429",1
+"PREREGISTRO: Registrar a usuario en POE: 271",1
+"Descargó CSV -> id_escuela_facultad: 77738",1
+"PREREGISTRO: Pago de prueba: 652",1
+"PREREGISTRO: Registrar a usuario en POE: 841",1
+"Descargó CSV -> id_escuela_facultad: 138742",1
+"PREREGISTRO: Registrar a usuario en POE: 110",1
+"PREREGISTRO: Registrar a usuario en POE: 989",1
+"PREREGISTRO: Registrar a usuario en POE: 372",1
+"PREREGISTRO: Registrar a usuario en POE: 284",1
+"PREREGISTRO: Registrar a usuario en POE: 602",1
+"PREREGISTRO: Reenvío información: 781",1
+"Descargó CSV -> id_escuela_facultad: 68728",1
+"PREREGISTRO: Registrar a usuario en POE: 75",1
+"PREREGISTRO: Registrar a usuario en POE: 930",1
+"PREREGISTRO: Deshabilitar usuario: 385",1
+"PREREGISTRO: Pago de prueba: 25",1
+"PREREGISTRO: Pago de prueba: 228",1
+"PREREGISTRO: Registrar a usuario en POE: 555",1
+"PREREGISTRO: Pago de prueba: 738",1
+"Descargó CSV -> id_escuela_facultad: 104732",1
+"PREREGISTRO: Pago de prueba: 922",1
+"PREREGISTRO: Registrar a usuario en POE: 1099",1
+"Borro idUsuarioExamen: 944870",1
+"Registro Masivo:  total: 700 Guardados: 696 Rechazados: 4 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 490",1
+"PREREGISTRO: Pago de prueba: 698",1
+"Registro Masivo:  total: 800 Guardados: 693 Rechazados: 107 -> id_escuela_facultad: 94",1
+"Descargó CSV -> id_escuela_facultad: 78709",1
+"PREREGISTRO: Deshabilitar usuario: 781",1
+"PREREGISTRO: Pago de prueba: 1044",1
+"Registro Masivo: Error al guardar a los alumnos total: 12 Guardados: 0 Rechazados: 11 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 163",1
+"PREREGISTRO: Pago de prueba: 438",1
+"Registro Masivo:  total: 96 Guardados: 94 Rechazados: 2 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 668",1
+"PREREGISTRO: Deshabilitar usuario: 855",1
+"PREREGISTRO: Pago de prueba: 126",1
+"PREREGISTRO: Registrar a usuario en POE: 1000",1
+"PREREGISTRO: Registrar a usuario en POE: 384",1
+"PREREGISTRO: Pago de prueba: 251",1
+"PREREGISTRO: Registrar a usuario en POE: 617",1
+"PREREGISTRO: Registrar a usuario en POE: 559",1
+"Descargó CSV -> id_escuela_facultad: 113113",1
+"PREREGISTRO: Pago de prueba: 85",1
+"PREREGISTRO: Registrar a usuario en POE: 948",1
+"Registro Masivo:  total: 850 Guardados: 841 Rechazados: 9 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 21",1
+"PREREGISTRO: Pago de prueba: 243",1
+"PREREGISTRO: Registrar a usuario en POE: 579",1
+"PREREGISTRO: Pago de prueba: 751",1
+"Descargó CSV -> id_escuela_facultad: 98588",1
+"PREREGISTRO: Pago de prueba: 47",1
+"PREREGISTRO: Pago de prueba: 926",1
+"PREREGISTRO: Pago de prueba: 365",1
+"Descargó CSV -> id_escuela_facultad: 74929",1
+"Registro Masivo:  total: 3 Guardados: 3 Rechazados: 0 -> id_escuela_facultad: 50",1
+"PREREGISTRO: Registrar a usuario en POE: 501",1
+"PREREGISTRO: Pago de prueba: 714",1
+"PREREGISTRO: Pago de prueba: 833",1
+"PREREGISTRO: Pago de prueba: 1052",1
+"Descargó CSV -> id_escuela_facultad: 149381",1
+"PREREGISTRO: Pago de prueba: 173",1
+"PREREGISTRO: Pago de prueba: 447",1
+"PREREGISTRO: Registrar a usuario en POE: 314",1
+"Descargó CSV -> id_escuela_facultad: 62318",1
+"PREREGISTRO: Registrar a usuario en POE: 664",1
+"PREREGISTRO: Pago de prueba: 852",1
+"Registro Masivo: Error al guardar a los alumnos total: 10 Guardados: 0 Rechazados: 9 -> id_escuela_facultad: 10026",1
+"PREREGISTRO: Pago de prueba: 130",1
+"PREREGISTRO: Registrar a usuario en POE: 1009",1
+"PREREGISTRO: Registrar a usuario en POE: 404",1
+"PREREGISTRO: Registrar a usuario en POE: 213",1
+"PREREGISTRO: Registrar a usuario en POE: 627",1
+"PREREGISTRO: Registrar a usuario en POE: 748",1
+"Registro Masivo:  total: 854 Guardados: 854 Rechazados: 0 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Pago de prueba: 93",1
+"PREREGISTRO: Registrar a usuario en POE: 960",1
+"Registro Masivo:  total: 850 Guardados: 846 Rechazados: 4 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 36",1
+"PREREGISTRO: Pago de prueba: 588",1
+"PREREGISTRO: Registrar a usuario en POE: 756",1
+"Descargó CSV -> id_escuela_facultad: 98378",1
+"PREREGISTRO: Registrar a usuario en POE: 48",1
+"PREREGISTRO: Registrar a usuario en POE: 997",1
+"PREREGISTRO: Pago de prueba: 387",1
+"Descargó CSV -> id_escuela_facultad: 102547",1
+"PREREGISTRO: Registrar a usuario en POE: 50",1
+"PREREGISTRO: Registrar a usuario en POE: 965",1
+"PREREGISTRO: Pago de prueba: 386",1
+"Registro Masivo:  total: 689 Guardados: 689 Rechazados: 0 -> id_escuela_facultad: 86",1
+"Registro Masivo:  total: 63 Guardados: 12 Rechazados: 51 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 514",1
+"PREREGISTRO: Registrar a usuario en POE: 711",1
+"Borro idUsuarioExamen: 345227",1
+"PREREGISTRO: Registrar a usuario en POE: 814",1
+"PREREGISTRO: Pago de prueba: 1064",1
+"PREREGISTRO: Registrar a usuario en POE: 180",1
+"PREREGISTRO: Pago de prueba: 459",1
+"PREREGISTRO: Pago de prueba: 324",1
+"PREREGISTRO: Pago de prueba: 678",1
+"PREREGISTRO: Registrar a usuario en POE: 862",1
+"Registro Masivo: Error al guardar a los alumnos total: 28 Guardados: 0 Rechazados: 27 -> id_escuela_facultad: 10024",1
+"PREREGISTRO: Pago de prueba: 144",1
+"PREREGISTRO: Pago de prueba: 1020",1
+"PREREGISTRO: Pago de prueba: 425",1
+"PREREGISTRO: Registrar a usuario en POE: 259",1
+"PREREGISTRO: Pago de prueba: 636",1
+"PREREGISTRO: Registrar a usuario en POE: 771",1
+"Registro Masivo:  total: 801 Guardados: 800 Rechazados: 1 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 98",1
+"PREREGISTRO: Pago de prueba: 971",1
+"PREREGISTRO: Registrar a usuario en POE: 526",1
+"PREREGISTRO: Registrar a usuario en POE: 262",1
+"PREREGISTRO: Registrar a usuario en POE: 590",1
+"PREREGISTRO: Pago de prueba: 798",1
+"Descargó CSV -> id_escuela_facultad: 92754",1
+"PREREGISTRO: Registrar a usuario en POE: 62",1
+"Registro Masivo: Error al guardar a los alumnos total: 64 Guardados: 18 Rechazados: 45 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 357",1
+"Registro Masivo:  total: 750 Guardados: 630 Rechazados: 120 -> id_escuela_facultad: 94",1
+"Registro Masivo:  total: 160 Guardados: 104 Rechazados: 56 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 531",1
+"PREREGISTRO: Pago de prueba: 727",1
+"Descargó CSV -> id_escuela_facultad: 110369",1
+"PREREGISTRO: Registrar a usuario en POE: 900",1
+"PREREGISTRO: Pago de prueba: 1069",1
+"Registro Masivo:  total: 9 Guardados: 6 Rechazados: 3 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 190",1
+"PREREGISTRO: Pago de prueba: 471",1
+"PREREGISTRO: Registrar a usuario en POE: 332",1
+"Borro idUsuarioExamen: 414717",1
+"PREREGISTRO: Registrar a usuario en POE: 674",1
+"Registro Masivo:  total: 750 Guardados: 696 Rechazados: 54 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Registrar a usuario en POE: 149",1
+"PREREGISTRO: Pago de prueba: 1029",1
+"PREREGISTRO: Registrar a usuario en POE: 415",1
+"PREREGISTRO: Pago de prueba: 278",1
+"PREREGISTRO: Pago de prueba: 650",1
+"PREREGISTRO: Registrar a usuario en POE: 809",1
+"Registro Masivo:  total: 1841 Guardados: 1841 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 111",1
+"PREREGISTRO: Pago de prueba: 979",1
+"PREREGISTRO: Pago de prueba: 384",1
+"PREREGISTRO: Registrar a usuario en POE: 301",1
+"PREREGISTRO: Pago de prueba: 607",1
+"PREREGISTRO: Registrar a usuario en POE: 785",1
+"Registro Masivo:  total: 8 Guardados: 7 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 72",1
+"PREREGISTRO: Pago de prueba: 937",1
+"PREREGISTRO: Registrar a usuario en POE: 480",1
+"PREREGISTRO: Registrar a usuario en POE: 10",1
+"PREREGISTRO: Registrar a usuario en POE: 204",1
+"PREREGISTRO: Pago de prueba: 541",1
+"PREREGISTRO: Registrar a usuario en POE: 723",1
+"Descargó CSV -> id_escuela_facultad: 111995",1
+"PREREGISTRO: Registrar a usuario en POE: 911",1
+"Registro Masivo:  total: 218 Guardados: 112 Rechazados: 106 -> id_escuela_facultad: 88",1
+"Borro idUsuarioExamen: 221201",1
+"PREREGISTRO: Pago de prueba: 198",1
+"PREREGISTRO: Pago de prueba: 481",1
+"Registro Masivo:  total: 548 Guardados: 546 Rechazados: 2 -> id_escuela_facultad: 86",1
+"Registro Masivo:  total: 1892 Guardados: 1873 Rechazados: 19 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 690",1
+"PREREGISTRO: Pago de prueba: 883",1
+"Registro Masivo:  total: 870 Guardados: 819 Rechazados: 51 -> id_escuela_facultad: 91",1
+"PREREGISTRO: Pago de prueba: 159",1
+"PREREGISTRO: Pago de prueba: 1038",1
+"PREREGISTRO: Registrar a usuario en POE: 430",1
+"PREREGISTRO: Registrar a usuario en POE: 272",1
+"Descargó CSV -> id_escuela_facultad: 77743",1
+"PREREGISTRO: Pago de prueba: 653",1
+"PREREGISTRO: Registrar a usuario en POE: 846",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 241",1
+"PREREGISTRO: Registrar a usuario en POE: 111",1
+"PREREGISTRO: Pago de prueba: 990",1
+"PREREGISTRO: Registrar a usuario en POE: 376",1
+"PREREGISTRO: Pago de prueba: 285",1
+"PREREGISTRO: Registrar a usuario en POE: 603",1
+"PREREGISTRO: Reenvío información: 798",1
+"Descargó CSV -> id_escuela_facultad: 98872",1
+"PREREGISTRO: Registrar a usuario en POE: 76",1
+"PREREGISTRO: Registrar a usuario en POE: 931",1
+"PREREGISTRO: Pago de prueba: 26",1
+"PREREGISTRO: Pago de prueba: 227",1
+"PREREGISTRO: Pago de prueba: 556",1
+"PREREGISTRO: Pago de prueba: 739",1
+"PREREGISTRO: Registrar a usuario en POE: 922",1
+"Borro idUsuarioExamen: 945543",1
+"Registro Masivo:  total: 700 Guardados: 695 Rechazados: 5 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 491",1
+"PREREGISTRO: Pago de prueba: 699",1
+"PREREGISTRO: Pago de prueba: 890",1
+"PREREGISTRO: Registrar a usuario en POE: 1044",1
+"Registro Masivo: Error al guardar a los alumnos total: 13 Guardados: 0 Rechazados: 12 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 164",1
+"PREREGISTRO: Registrar a usuario en POE: 438",1
+"PREREGISTRO: Deshabilitar usuario: 304",1
+"PREREGISTRO: Pago de prueba: 669",1
+"PREREGISTRO: Registrar a usuario en POE: 861",1
+"Registro Masivo:  total: 19 Guardados: 17 Rechazados: 2 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 127",1
+"PREREGISTRO: Pago de prueba: 1001",1
+"PREREGISTRO: Registrar a usuario en POE: 389",1
+"PREREGISTRO: Pago de prueba: 252",1
+"PREREGISTRO: Registrar a usuario en POE: 618",1
+"PREREGISTRO: Registrar a usuario en POE: 561",1
+"PREREGISTRO: Registrar a usuario en POE: 85",1
+"PREREGISTRO: Registrar a usuario en POE: 949",1
+"Registro Masivo:  total: 850 Guardados: 804 Rechazados: 46 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 22",1
+"PREREGISTRO: Pago de prueba: 242",1
+"PREREGISTRO: Pago de prueba: 580",1
+"PREREGISTRO: Pago de prueba: 747",1
+"Descargó CSV -> id_escuela_facultad: 99690",1
+"PREREGISTRO: Pago de prueba: 48",1
+"PREREGISTRO: Registrar a usuario en POE: 926",1
+"PREREGISTRO: Registrar a usuario en POE: 365",1
+"Registro Masivo: Error al guardar a los alumnos total: 102 Guardados: 100 Rechazados: 1 -> id_escuela_facultad: 229",1
+"Borro idUsuarioExamen: 1791541",1
+"PREREGISTRO: Pago de prueba: 503",1
+"PREREGISTRO: Pago de prueba: 715",1
+"Registro Masivo:  total: 5 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 838",1
+"PREREGISTRO: Registrar a usuario en POE: 173",1
+"PREREGISTRO: Registrar a usuario en POE: 447",1
+"PREREGISTRO: Registrar a usuario en POE: 315",1
+"Descargó CSV -> id_escuela_facultad: 29366",1
+"PREREGISTRO: Registrar a usuario en POE: 665",1
+"PREREGISTRO: Pago de prueba: 849",1
+"Registro Masivo: Error al guardar a los alumnos total: 11 Guardados: 0 Rechazados: 10 -> id_escuela_facultad: 10027",1
+"PREREGISTRO: Registrar a usuario en POE: 136",1
+"PREREGISTRO: Pago de prueba: 1010",1
+"PREREGISTRO: Registrar a usuario en POE: 405",1
+"PREREGISTRO: Registrar a usuario en POE: 216",1
+"PREREGISTRO: Pago de prueba: 628",1
+"PREREGISTRO: Registrar a usuario en POE: 750",1
+"Registro Masivo:  total: 850 Guardados: 797 Rechazados: 53 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Pago de prueba: 94",1
+"PREREGISTRO: Pago de prueba: 961",1
+"Registro Masivo:  total: 850 Guardados: 0 Rechazados: 850 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 33",1
+"PREREGISTRO: Deshabilitar usuario: 201",1
+"PREREGISTRO: Registrar a usuario en POE: 587",1
+"PREREGISTRO: Registrar a usuario en POE: 760",1
+"PREREGISTRO: Registrar a usuario en POE: 51",1
+"PREREGISTRO: Registrar a usuario en POE: 984",1
+"PREREGISTRO: Pago de prueba: 374",1
+"Registro Masivo:  total: 699 Guardados: 592 Rechazados: 107 -> id_escuela_facultad: 88",1
+"Registro Masivo:  total: 126 Guardados: 34 Rechazados: 92 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 514",1
+"PREREGISTRO: Registrar a usuario en POE: 712",1
+"Borro idUsuarioExamen: 376050",1
+"PREREGISTRO: Registrar a usuario en POE: 820",1
+"PREREGISTRO: Registrar a usuario en POE: 1067",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 181",1
+"PREREGISTRO: Registrar a usuario en POE: 459",1
+"PREREGISTRO: Pago de prueba: 323",1
+"Descargó CSV -> id_escuela_facultad: 77925",1
+"PREREGISTRO: Pago de prueba: 679",1
+"PREREGISTRO: Pago de prueba: 863",1
+"Registro Masivo: Error al guardar a los alumnos total: 29 Guardados: 0 Rechazados: 28 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 145",1
+"PREREGISTRO: Registrar a usuario en POE: 1020",1
+"PREREGISTRO: Pago de prueba: 424",1
+"PREREGISTRO: Registrar a usuario en POE: 260",1
+"PREREGISTRO: Registrar a usuario en POE: 636",1
+"PREREGISTRO: Registrar a usuario en POE: 772",1
+"PREREGISTRO: Registrar a usuario en POE: 100",1
+"PREREGISTRO: Registrar a usuario en POE: 971",1
+"PREREGISTRO: Registrar a usuario en POE: 524",1
+"PREREGISTRO: Pago de prueba: 263",1
+"PREREGISTRO: Registrar a usuario en POE: 591",1
+"PREREGISTRO: Pago de prueba: 785",1
+"PREREGISTRO: Pago de prueba: 64",1
+"Registro Masivo: Error al guardar a los alumnos total: 9 Guardados: 1 Rechazados: 7 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 356",1
+"Registro Masivo:  total: 802 Guardados: 801 Rechazados: 1 -> id_escuela_facultad: 94",1
+"Registro Masivo:  total: 160 Guardados: 53 Rechazados: 107 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 531",1
+"PREREGISTRO: Pago de prueba: 728",1
+"PREREGISTRO: Registrar a usuario en POE: 901",1
+"PREREGISTRO: Pago de prueba: 1068",1
+"Registro Masivo:  total: 18 Guardados: 12 Rechazados: 6 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 191",1
+"PREREGISTRO: Registrar a usuario en POE: 471",1
+"Borro idUsuarioExamen: 414722",1
+"PREREGISTRO: Registrar a usuario en POE: 675",1
+"PREREGISTRO: Pago de prueba: 874",1
+"Registro Masivo:  total: 699 Guardados: 619 Rechazados: 80 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 150",1
+"PREREGISTRO: Registrar a usuario en POE: 1029",1
+"PREREGISTRO: Registrar a usuario en POE: 416",1
+"PREREGISTRO: Pago de prueba: 279",1
+"Descargó CSV -> id_escuela_facultad: 51000",1
+"PREREGISTRO: Registrar a usuario en POE: 638",1
+"PREREGISTRO: Pago de prueba: 817",1
+"PREREGISTRO: Pago de prueba: 112",1
+"PREREGISTRO: Registrar a usuario en POE: 979",1
+"PREREGISTRO: Pago de prueba: 389",1
+"PREREGISTRO: Pago de prueba: 297",1
+"PREREGISTRO: Pago de prueba: 608",1
+"PREREGISTRO: Registrar a usuario en POE: 787",1
+"Registro Masivo:  total: 3 Guardados: 3 Rechazados: 0 -> id_escuela_facultad: 13",1
+"PREREGISTRO: Registrar a usuario en POE: 69",1
+"PREREGISTRO: Pago de prueba: 938",1
+"PREREGISTRO: Registrar a usuario en POE: 492",1
+"PREREGISTRO: Registrar a usuario en POE: 11",1
+"Registro Masivo:  total: 66 Guardados: 41 Rechazados: 25 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 541",1
+"PREREGISTRO: Registrar a usuario en POE: 724",1
+"PREREGISTRO: Pago de prueba: 914",1
+"Registro Masivo:  total: 112 Guardados: 50 Rechazados: 62 -> id_escuela_facultad: 88",1
+"Borro idUsuarioExamen: 221124",1
+"PREREGISTRO: Registrar a usuario en POE: 198",1
+"PREREGISTRO: Registrar a usuario en POE: 481",1
+"Registro Masivo:  total: 800 Guardados: 706 Rechazados: 94 -> id_escuela_facultad: 88",1
+"Registro Masivo:  total: 1831 Guardados: 1828 Rechazados: 3 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 691",1
+"Registro Masivo: Error al guardar a los alumnos total: 359 Guardados: 346 Rechazados: 12 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Pago de prueba: 160",1
+"PREREGISTRO: Registrar a usuario en POE: 431",1
+"PREREGISTRO: Registrar a usuario en POE: 276",1
+"Descargó CSV -> id_escuela_facultad: 77746",1
+"PREREGISTRO: Pago de prueba: 654",1
+"PREREGISTRO: Registrar a usuario en POE: 837",1
+"Registro Masivo:  total: 23 Guardados: 23 Rechazados: 0 -> id_escuela_facultad: 241",1
+"PREREGISTRO: Registrar a usuario en POE: 112",1
+"PREREGISTRO: Registrar a usuario en POE: 990",1
+"PREREGISTRO: Registrar a usuario en POE: 378",1
+"PREREGISTRO: Registrar a usuario en POE: 286",1
+"PREREGISTRO: Registrar a usuario en POE: 604",1
+"PREREGISTRO: Reenvío información: 799",1
+"Registro Masivo:  total: 27 Guardados: 27 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 77",1
+"PREREGISTRO: Registrar a usuario en POE: 934",1
+"PREREGISTRO: Registrar a usuario en POE: 387",1
+"PREREGISTRO: Pago de prueba: 27",1
+"PREREGISTRO: Pago de prueba: 226",1
+"PREREGISTRO: Registrar a usuario en POE: 556",1
+"PREREGISTRO: Pago de prueba: 740",1
+"Registro Masivo:  total: 31 Guardados: 31 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 923",1
+"Borro idUsuarioExamen: 947197",1
+"Registro Masivo:  total: 700 Guardados: 694 Rechazados: 6 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 491",1
+"PREREGISTRO: Pago de prueba: 700",1
+"Descargó CSV -> id_escuela_facultad: 42470",1
+"PREREGISTRO: Pago de prueba: 894",1
+"PREREGISTRO: Pago de prueba: 1045",1
+"Registro Masivo: Error al guardar a los alumnos total: 14 Guardados: 0 Rechazados: 13 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 165",1
+"PREREGISTRO: Pago de prueba: 439",1
+"PREREGISTRO: Pago de prueba: 305",1
+"Descargó CSV -> id_escuela_facultad: 77845",1
+"PREREGISTRO: Pago de prueba: 840",1
+"PREREGISTRO: Pago de prueba: 128",1
+"PREREGISTRO: Registrar a usuario en POE: 1001",1
+"PREREGISTRO: Registrar a usuario en POE: 390",1
+"PREREGISTRO: Pago de prueba: 253",1
+"PREREGISTRO: Registrar a usuario en POE: 619",1
+"PREREGISTRO: Registrar a usuario en POE: 564",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 260",1
+"PREREGISTRO: Pago de prueba: 86",1
+"PREREGISTRO: Registrar a usuario en POE: 950",1
+"Registro Masivo:  total: 850 Guardados: 810 Rechazados: 40 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 23",1
+"PREREGISTRO: Pago de prueba: 241",1
+"PREREGISTRO: Pago de prueba: 581",1
+"PREREGISTRO: Registrar a usuario en POE: 747",1
+"Descargó CSV -> id_escuela_facultad: 99103",1
+"PREREGISTRO: Pago de prueba: 49",1
+"PREREGISTRO: Registrar a usuario en POE: 925",1
+"PREREGISTRO: Deshabilitar usuario: 355",1
+"Registro Masivo:  total: 38 Guardados: 38 Rechazados: 0 -> id_escuela_facultad: 229",1
+"Borro idUsuarioExamen: 1792511",1
+"PREREGISTRO: Registrar a usuario en POE: 503",1
+"PREREGISTRO: Pago de prueba: 716",1
+"Registro Masivo:  total: 1293 Guardados: 1267 Rechazados: 26 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 842",1
+"PREREGISTRO: Registrar a usuario en POE: 1052",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 175",1
+"PREREGISTRO: Pago de prueba: 449",1
+"PREREGISTRO: Pago de prueba: 304",1
+"Descargó CSV -> id_escuela_facultad: 72822",1
+"PREREGISTRO: Registrar a usuario en POE: 666",1
+"PREREGISTRO: Pago de prueba: 843",1
+"Registro Masivo: Error al guardar a los alumnos total: 12 Guardados: 0 Rechazados: 11 -> id_escuela_facultad: 10028",1
+"PREREGISTRO: Registrar a usuario en POE: 135",1
+"PREREGISTRO: Registrar a usuario en POE: 1010",1
+"PREREGISTRO: Registrar a usuario en POE: 406",1
+"PREREGISTRO: Registrar a usuario en POE: 221",1
+"PREREGISTRO: Registrar a usuario en POE: 628",1
+"PREREGISTRO: Registrar a usuario en POE: 753",1
+"Registro Masivo:  total: 961 Guardados: 878 Rechazados: 83 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Pago de prueba: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 961",1
+"Registro Masivo:  total: 850 Guardados: 848 Rechazados: 2 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 34",1
+"PREREGISTRO: Deshabilitar usuario: 205",1
+"PREREGISTRO: Registrar a usuario en POE: 588",1
+"PREREGISTRO: Registrar a usuario en POE: 762",1
+"PREREGISTRO: Registrar a usuario en POE: 35",1
+"PREREGISTRO: Registrar a usuario en POE: 209",1
+"PREREGISTRO: Pago de prueba: 589",1
+"Descargó CSV -> id_escuela_facultad: 104016",1
+"PREREGISTRO: Registrar a usuario en POE: 52",1
+"Registro Masivo:  total: 955 Guardados: 379 Rechazados: 576 -> id_escuela_facultad: 34",1
+"PREREGISTRO: Pago de prueba: 373",1
+"Registro Masivo:  total: 716 Guardados: 715 Rechazados: 1 -> id_escuela_facultad: 88",1
+"Registro Masivo:  total: 126 Guardados: 91 Rechazados: 35 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 516",1
+"PREREGISTRO: Registrar a usuario en POE: 713",1
+"Borro idUsuarioExamen: 384906",1
+"PREREGISTRO: Registrar a usuario en POE: 832",1
+"PREREGISTRO: Registrar a usuario en POE: 1064",1
+"Registro Masivo:  total: 616 Guardados: 616 Rechazados: 0 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Registrar a usuario en POE: 182",1
+"PREREGISTRO: Pago de prueba: 461",1
+"PREREGISTRO: Registrar a usuario en POE: 323",1
+"Descargó CSV -> id_escuela_facultad: 77959",1
+"PREREGISTRO: Pago de prueba: 680",1
+"PREREGISTRO: Registrar a usuario en POE: 860",1
+"Registro Masivo: Error al guardar a los alumnos total: 30 Guardados: 0 Rechazados: 29 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 146",1
+"PREREGISTRO: Pago de prueba: 1022",1
+"PREREGISTRO: Pago de prueba: 423",1
+"PREREGISTRO: Pago de prueba: 264",1
+"PREREGISTRO: Pago de prueba: 637",1
+"PREREGISTRO: Registrar a usuario en POE: 775",1
+"PREREGISTRO: Registrar a usuario en POE: 101",1
+"PREREGISTRO: Pago de prueba: 972",1
+"PREREGISTRO: Pago de prueba: 375",1
+"PREREGISTRO: Registrar a usuario en POE: 263",1
+"PREREGISTRO: Registrar a usuario en POE: 592",1
+"PREREGISTRO: Pago de prueba: 786",1
+"Descargó CSV -> id_escuela_facultad: 85486",1
+"PREREGISTRO: Pago de prueba: 63",1
+"Registro Masivo: Error al guardar a los alumnos total: 66 Guardados: 5 Rechazados: 60 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 353",1
+"PREREGISTRO: Pago de prueba: 9",1
+"PREREGISTRO: Pago de prueba: 533",1
+"PREREGISTRO: Pago de prueba: 729",1
+"PREREGISTRO: Registrar a usuario en POE: 904",1
+"PREREGISTRO: Registrar a usuario en POE: 1068",1
+"Registro Masivo:  total: 9 Guardados: 4 Rechazados: 5 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Pago de prueba: 192",1
+"PREREGISTRO: Pago de prueba: 472",1
+"PREREGISTRO: Registrar a usuario en POE: 330",1
+"Borro idUsuarioExamen: 414726",1
+"PREREGISTRO: Registrar a usuario en POE: 676",1
+"PREREGISTRO: Registrar a usuario en POE: 874",1
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 86",1
+"PREREGISTRO: Pago de prueba: 151",1
+"PREREGISTRO: Pago de prueba: 1031",1
+"PREREGISTRO: Registrar a usuario en POE: 417",1
+"PREREGISTRO: Pago de prueba: 280",1
+"Registro Masivo:  total: 2 Guardados: 0 Rechazados: 2 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 639",1
+"PREREGISTRO: Registrar a usuario en POE: 817",1
+"Registro Masivo:  total: 1060 Guardados: 1060 Rechazados: 0 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 113",1
+"PREREGISTRO: Pago de prueba: 980",1
+"PREREGISTRO: Pago de prueba: 390",1
+"PREREGISTRO: Pago de prueba: 299",1
+"PREREGISTRO: Pago de prueba: 609",1
+"PREREGISTRO: Registrar a usuario en POE: 788",1
+"PREREGISTRO: Registrar a usuario en POE: 70",1
+"PREREGISTRO: Pago de prueba: 939",1
+"PREREGISTRO: Registrar a usuario en POE: 496",1
+"Registro Masivo:  total: 66 Guardados: 10 Rechazados: 56 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 542",1
+"PREREGISTRO: Registrar a usuario en POE: 725",1
+"Descargó CSV -> id_escuela_facultad: 76351",1
+"PREREGISTRO: Registrar a usuario en POE: 914",1
+"Registro Masivo:  total: 295 Guardados: 101 Rechazados: 194 -> id_escuela_facultad: 89",1
+"Borro idUsuarioExamen: 221041",1
+"Registro Masivo:  total: 800 Guardados: 773 Rechazados: 27 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 482",1
+"Registro Masivo:  total: 673 Guardados: 673 Rechazados: 0 -> id_escuela_facultad: 88",1
+"Registro Masivo:  total: 1833 Guardados: 1786 Rechazados: 47 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 692",1
+"PREREGISTRO: Pago de prueba: 882",1
+"Registro Masivo:  total: 801 Guardados: 747 Rechazados: 54 -> id_escuela_facultad: 92",1
+"PREREGISTRO: Pago de prueba: 161",1
+"PREREGISTRO: Pago de prueba: 1039",1
+"PREREGISTRO: Pago de prueba: 455",1
+"PREREGISTRO: Registrar a usuario en POE: 273",1
+"Descargó CSV -> id_escuela_facultad: 77621",1
+"PREREGISTRO: Pago de prueba: 655",1
+"PREREGISTRO: Registrar a usuario en POE: 834",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 325",1
+"PREREGISTRO: Registrar a usuario en POE: 113",1
+"PREREGISTRO: Pago de prueba: 991",1
+"PREREGISTRO: Registrar a usuario en POE: 379",1
+"PREREGISTRO: Registrar a usuario en POE: 287",1
+"PREREGISTRO: Pago de prueba: 621",1
+"PREREGISTRO: Pago de prueba: 802",1
+"Registro Masivo:  total: 5 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 84",1
+"PREREGISTRO: Registrar a usuario en POE: 78",1
+"PREREGISTRO: Registrar a usuario en POE: 935",1
+"PREREGISTRO: Registrar a usuario en POE: 388",1
+"PREREGISTRO: Pago de prueba: 28",1
+"PREREGISTRO: Pago de prueba: 219",1
+"PREREGISTRO: Pago de prueba: 558",1
+"PREREGISTRO: Pago de prueba: 741",1
+"PREREGISTRO: Registrar a usuario en POE: 923",1
+"Registro Masivo:  total: 42 Guardados: 42 Rechazados: 0 -> id_escuela_facultad: 97",1
+"Registro Masivo:  total: 700 Guardados: 685 Rechazados: 15 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 494",1
+"PREREGISTRO: Pago de prueba: 701",1
+"Descargó CSV -> id_escuela_facultad: 55963",1
+"PREREGISTRO: Registrar a usuario en POE: 894",1
+"PREREGISTRO: Registrar a usuario en POE: 1045",1
+"Registro Masivo: Error al guardar a los alumnos total: 15 Guardados: 0 Rechazados: 14 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 166",1
+"PREREGISTRO: Registrar a usuario en POE: 439",1
+"PREREGISTRO: Pago de prueba: 306",1
+"Descargó CSV -> id_escuela_facultad: 49431",1
+"PREREGISTRO: Registrar a usuario en POE: 651",1
+"PREREGISTRO: Pago de prueba: 839",1
+"Registro Masivo: Error al guardar a los alumnos total: 132 Guardados: 131 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 124",1
+"PREREGISTRO: Pago de prueba: 1002",1
+"PREREGISTRO: Registrar a usuario en POE: 391",1
+"PREREGISTRO: Pago de prueba: 254",1
+"PREREGISTRO: Registrar a usuario en POE: 620",1
+"PREREGISTRO: Registrar a usuario en POE: 562",1
+"Registro Masivo:  total: 77 Guardados: 77 Rechazados: 0 -> id_escuela_facultad: 260",1
+"PREREGISTRO: Registrar a usuario en POE: 86",1
+"PREREGISTRO: Pago de prueba: 951",1
+"Registro Masivo:  total: 850 Guardados: 791 Rechazados: 59 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 24",1
+"PREREGISTRO: Pago de prueba: 240",1
+"PREREGISTRO: Pago de prueba: 582",1
+"PREREGISTRO: Registrar a usuario en POE: 751",1
+"Descargó CSV -> id_escuela_facultad: 96273",1
+"PREREGISTRO: Pago de prueba: 50",1
+"PREREGISTRO: Registrar a usuario en POE: 928",1
+"PREREGISTRO: Pago de prueba: 368",1
+"Registro Masivo:  total: 16 Guardados: 2 Rechazados: 14 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 505",1
+"PREREGISTRO: Pago de prueba: 717",1
+"Registro Masivo:  total: 15 Guardados: 14 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 845",1
+"PREREGISTRO: Registrar a usuario en POE: 1054",1
+"Registro Masivo:  total: 800 Guardados: 798 Rechazados: 2 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 174",1
+"PREREGISTRO: Registrar a usuario en POE: 449",1
+"PREREGISTRO: Pago de prueba: 317",1
+"PREREGISTRO: Registrar a usuario en POE: 667",1
+"PREREGISTRO: Pago de prueba: 835",1
+"Registro Masivo: Error al guardar a los alumnos total: 13 Guardados: 0 Rechazados: 12 -> id_escuela_facultad: 10028",1
+"PREREGISTRO: Registrar a usuario en POE: 134",1
+"PREREGISTRO: Pago de prueba: 1011",1
+"PREREGISTRO: Pago de prueba: 407",1
+"PREREGISTRO: Registrar a usuario en POE: 225",1
+"PREREGISTRO: Pago de prueba: 629",1
+"PREREGISTRO: Registrar a usuario en POE: 754",1
+"Registro Masivo:  total: 850 Guardados: 769 Rechazados: 81 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 96",1
+"PREREGISTRO: Pago de prueba: 963",1
+"Registro Masivo:  total: 850 Guardados: 840 Rechazados: 10 -> id_escuela_facultad: 99",1
+"Registro Masivo:  total: 843 Guardados: 819 Rechazados: 24 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 36",1
+"PREREGISTRO: Registrar a usuario en POE: 211",1
+"PREREGISTRO: Pago de prueba: 590",1
+"PREREGISTRO: Registrar a usuario en POE: 773",1
+"PREREGISTRO: Registrar a usuario en POE: 53",1
+"Registro Masivo: Error al guardar a los alumnos total: 28 Guardados: 5 Rechazados: 22 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 361",1
+"Registro Masivo:  total: 800 Guardados: 580 Rechazados: 220 -> id_escuela_facultad: 89",1
+"Registro Masivo: Error al guardar a los alumnos total: 22 Guardados: 21 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 516",1
+"PREREGISTRO: Registrar a usuario en POE: 714",1
+"Descargó CSV -> id_escuela_facultad: 98305",1
+"PREREGISTRO: Registrar a usuario en POE: 833",1
+"PREREGISTRO: Registrar a usuario en POE: 1066",1
+"PREREGISTRO: Registrar a usuario en POE: 183",1
+"PREREGISTRO: Registrar a usuario en POE: 461",1
+"PREREGISTRO: Registrar a usuario en POE: 324",1
+"Descargó CSV -> id_escuela_facultad: 77962",1
+"PREREGISTRO: Pago de prueba: 681",1
+"PREREGISTRO: Registrar a usuario en POE: 863",1
+"Registro Masivo: Error al guardar a los alumnos total: 31 Guardados: 0 Rechazados: 30 -> id_escuela_facultad: 10025",1
+"PREREGISTRO: Pago de prueba: 147",1
+"PREREGISTRO: Registrar a usuario en POE: 1022",1
+"PREREGISTRO: Pago de prueba: 422",1
+"PREREGISTRO: Pago de prueba: 265",1
+"PREREGISTRO: Registrar a usuario en POE: 637",1
+"PREREGISTRO: Registrar a usuario en POE: 777",1
+"Descargó CSV -> id_escuela_facultad: 122956",1
+"PREREGISTRO: Registrar a usuario en POE: 102",1
+"PREREGISTRO: Registrar a usuario en POE: 972",1
+"PREREGISTRO: Registrar a usuario en POE: 375",1
+"PREREGISTRO: Pago de prueba: 289",1
+"PREREGISTRO: Registrar a usuario en POE: 593",1
+"PREREGISTRO: Pago de prueba: 787",1
+"Descargó CSV -> id_escuela_facultad: 59255",1
+"PREREGISTRO: Registrar a usuario en POE: 63",1
+"PREREGISTRO: Registrar a usuario en POE: 361",1
+"PREREGISTRO: Pago de prueba: 4",1
+"PREREGISTRO: Pago de prueba: 199",1
+"PREREGISTRO: Registrar a usuario en POE: 533",1
+"PREREGISTRO: Pago de prueba: 730",1
+"PREREGISTRO: Pago de prueba: 905",1
+"PREREGISTRO: Registrar a usuario en POE: 1070",1
+"Borro idUsuarioExamen: 518236",1
+"PREREGISTRO: Pago de prueba: 193",1
+"PREREGISTRO: Registrar a usuario en POE: 472",1
+"PREREGISTRO: Pago de prueba: 341",1
+"Registro Masivo:  total: 6 Guardados: 6 Rechazados: 0 -> id_escuela_facultad: 153",1
+"PREREGISTRO: Registrar a usuario en POE: 677",1
+"PREREGISTRO: Registrar a usuario en POE: 871",1
+"Registro Masivo:  total: 800 Guardados: 770 Rechazados: 30 -> id_escuela_facultad: 86",1
+"PREREGISTRO: Pago de prueba: 152",1
+"PREREGISTRO: Registrar a usuario en POE: 1031",1
+"PREREGISTRO: Registrar a usuario en POE: 419",1
+"PREREGISTRO: Pago de prueba: 281",1
+"Registro Masivo: Error al guardar a los alumnos total: 1 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 147",1
+"PREREGISTRO: Registrar a usuario en POE: 640",1
+"PREREGISTRO: Pago de prueba: 818",1
+"Registro Masivo:  total: 1059 Guardados: 1001 Rechazados: 58 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 114",1
+"PREREGISTRO: Registrar a usuario en POE: 980",1
+"PREREGISTRO: Pago de prueba: 391",1
+"PREREGISTRO: Registrar a usuario en POE: 299",1
+"PREREGISTRO: Pago de prueba: 610",1
+"PREREGISTRO: Registrar a usuario en POE: 794",1
+"Registro Masivo:  total: 2 Guardados: 2 Rechazados: 0 -> id_escuela_facultad: 224",1
+"PREREGISTRO: Registrar a usuario en POE: 71",1
+"PREREGISTRO: Pago de prueba: 940",1
+"PREREGISTRO: Registrar a usuario en POE: 502",1
+"PREREGISTRO: Registrar a usuario en POE: 12",1
+"PREREGISTRO: Registrar a usuario en POE: 542",1
+"PREREGISTRO: Registrar a usuario en POE: 726",1
+"Descargó CSV -> id_escuela_facultad: 100206",1
+"PREREGISTRO: Pago de prueba: 915",1
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 90",1
+"Borro idUsuarioExamen: 540014",1
+"Registro Masivo:  total: 800 Guardados: 741 Rechazados: 59 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 482",1
+"Registro Masivo:  total: 800 Guardados: 622 Rechazados: 178 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Registrar a usuario en POE: 693",1
+"PREREGISTRO: Registrar a usuario en POE: 882",1
+"PREREGISTRO: Pago de prueba: 162",1
+"PREREGISTRO: Registrar a usuario en POE: 1039",1
+"PREREGISTRO: Pago de prueba: 432",1
+"PREREGISTRO: Registrar a usuario en POE: 274",1
+"Descargó CSV -> id_escuela_facultad: 52111",1
+"PREREGISTRO: Pago de prueba: 656",1
+"PREREGISTRO: Registrar a usuario en POE: 825",1
+"Registro Masivo:  total: 56 Guardados: 56 Rechazados: 0 -> id_escuela_facultad: 325",1
+"PREREGISTRO: Registrar a usuario en POE: 114",1
+"PREREGISTRO: Registrar a usuario en POE: 991",1
+"PREREGISTRO: Pago de prueba: 397",1
+"PREREGISTRO: Registrar a usuario en POE: 605",1
+"PREREGISTRO: Pago de prueba: 803",1
+"Descargó CSV -> id_escuela_facultad: 112382",1
+"PREREGISTRO: Registrar a usuario en POE: 79",1
+"PREREGISTRO: Registrar a usuario en POE: 936",1
+"PREREGISTRO: Pago de prueba: 507",1
+"PREREGISTRO: Pago de prueba: 29",1
+"PREREGISTRO: Pago de prueba: 218",1
+"PREREGISTRO: Pago de prueba: 742",1
+"PREREGISTRO: Pago de prueba: 924",1
+"Registro Masivo:  total: 870 Guardados: 869 Rechazados: 1 -> id_escuela_facultad: 94",1
+"Descargó CSV -> id_escuela_facultad: 179375",1
+"Registro Masivo:  total: 710 Guardados: 695 Rechazados: 15 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 494",1
+"PREREGISTRO: Pago de prueba: 702",1
+"Descargó CSV -> id_escuela_facultad: 96796",1
+"PREREGISTRO: Pago de prueba: 895",1
+"PREREGISTRO: Pago de prueba: 1046",1
+"Registro Masivo: Error al guardar a los alumnos total: 16 Guardados: 0 Rechazados: 15 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 167",1
+"PREREGISTRO: Pago de prueba: 440",1
+"PREREGISTRO: Pago de prueba: 307",1
+"Descargó CSV -> id_escuela_facultad: 55867",1
+"PREREGISTRO: Registrar a usuario en POE: 652",1
+"PREREGISTRO: Pago de prueba: 836",1
+"Descargó CSV -> id_escuela_facultad: 145544",1
+"PREREGISTRO: Registrar a usuario en POE: 125",1
+"PREREGISTRO: Registrar a usuario en POE: 1002",1
+"PREREGISTRO: Registrar a usuario en POE: 392",1
+"PREREGISTRO: Pago de prueba: 255",1
+"PREREGISTRO: Registrar a usuario en POE: 621",1
+"PREREGISTRO: Registrar a usuario en POE: 565",1
+"Registro Masivo:  total: 1229 Guardados: 1134 Rechazados: 95 -> id_escuela_facultad: 85",1
+"PREREGISTRO: Pago de prueba: 87",1
+"PREREGISTRO: Registrar a usuario en POE: 951",1
+"Registro Masivo:  total: 571 Guardados: 526 Rechazados: 45 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 25",1
+"PREREGISTRO: Pago de prueba: 239",1
+"PREREGISTRO: Pago de prueba: 583",1
+"PREREGISTRO: Deshabilitar usuario: 751",1
+"Descargó CSV -> id_escuela_facultad: 99932",1
+"PREREGISTRO: Pago de prueba: 51",1
+"PREREGISTRO: Pago de prueba: 929",1
+"Registro Masivo:  total: 84 Guardados: 66 Rechazados: 18 -> id_escuela_facultad: 229",1
+"Registro Masivo:  total: 73 Guardados: 73 Rechazados: 0 -> id_escuela_facultad: 260",1
+"Borro idUsuarioExamen: 1678785",1
+"PREREGISTRO: Registrar a usuario en POE: 505",1
+"PREREGISTRO: Registrar a usuario en POE: 698",1
+"Registro Masivo:  total: 1712 Guardados: 1639 Rechazados: 73 -> id_escuela_facultad: 86",1
+"PREREGISTRO: Pago de prueba: 847",1
+"PREREGISTRO: Pago de prueba: 1055",1
+"Registro Masivo:  total: 800 Guardados: 791 Rechazados: 9 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 174",1
+"PREREGISTRO: Pago de prueba: 451",1
+"PREREGISTRO: Registrar a usuario en POE: 316",1
+"Registro Masivo:  total: 8 Guardados: 8 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 668",1
+"PREREGISTRO: Pago de prueba: 829",1
+"Registro Masivo: Error al guardar a los alumnos total: 14 Guardados: 0 Rechazados: 13 -> id_escuela_facultad: 10028",1
+"PREREGISTRO: Registrar a usuario en POE: 133",1
+"PREREGISTRO: Registrar a usuario en POE: 1011",1
+"PREREGISTRO: Registrar a usuario en POE: 407",1
+"PREREGISTRO: Registrar a usuario en POE: 231",1
+"PREREGISTRO: Registrar a usuario en POE: 629",1
+"PREREGISTRO: Registrar a usuario en POE: 755",1
+"Registro Masivo:  total: 907 Guardados: 841 Rechazados: 66 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 963",1
+"Registro Masivo:  total: 850 Guardados: 792 Rechazados: 58 -> id_escuela_facultad: 94",1
+"PREREGISTRO: Pago de prueba: 98",1
+"PREREGISTRO: Pago de prueba: 964",1
+"Registro Masivo:  total: 661 Guardados: 23 Rechazados: 638 -> id_escuela_facultad: 95",1
+"Borro idUsuarioExamen: 1605811",1
+"PREREGISTRO: Pago de prueba: 591",1
+"PREREGISTRO: Registrar a usuario en POE: 774",1
+"PREREGISTRO: Registrar a usuario en POE: 54",1
+"Registro Masivo: Error al guardar a los alumnos total: 33 Guardados: 12 Rechazados: 20 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 357",1
+"Registro Masivo:  total: 816 Guardados: 816 Rechazados: 0 -> id_escuela_facultad: 89",1
+"Registro Masivo: Error al guardar a los alumnos total: 23 Guardados: 0 Rechazados: 22 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 520",1
+"PREREGISTRO: Registrar a usuario en POE: 715",1
+"Descargó CSV -> id_escuela_facultad: 98306",1
+"PREREGISTRO: Registrar a usuario en POE: 838",1
+"Registro Masivo:  total: 1226 Guardados: 1225 Rechazados: 1 -> id_escuela_facultad: 85",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 184",1
+"PREREGISTRO: Pago de prueba: 462",1
+"PREREGISTRO: Registrar a usuario en POE: 325",1
+"Registro Masivo:  total: 17 Guardados: 15 Rechazados: 2 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 682",1
+"PREREGISTRO: Pago de prueba: 865",1
+"Registro Masivo: Error al guardar a los alumnos total: 32 Guardados: 0 Rechazados: 31 -> id_escuela_facultad: 10026",1
+"PREREGISTRO: Pago de prueba: 148",1
+"PREREGISTRO: Pago de prueba: 1023",1
+"PREREGISTRO: Pago de prueba: 421",1
+"PREREGISTRO: Pago de prueba: 266",1
+"PREREGISTRO: Pago de prueba: 638",1
+"PREREGISTRO: Registrar a usuario en POE: 797",1
+"Descargó CSV -> id_escuela_facultad: 30758",1
+"PREREGISTRO: Registrar a usuario en POE: 103",1
+"PREREGISTRO: Pago de prueba: 973",1
+"PREREGISTRO: Pago de prueba: 343",1
+"PREREGISTRO: Registrar a usuario en POE: 289",1
+"PREREGISTRO: Pago de prueba: 788",1
+"Descargó CSV -> id_escuela_facultad: 103523",1
+"PREREGISTRO: Registrar a usuario en POE: 64",1
+"Registro Masivo:  total: 21 Guardados: 3 Rechazados: 18 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 373",1
+"PREREGISTRO: Pago de prueba: 5",1
+"PREREGISTRO: Registrar a usuario en POE: 199",1
+"PREREGISTRO: Pago de prueba: 534",1
+"PREREGISTRO: Pago de prueba: 731",1
+"PREREGISTRO: Registrar a usuario en POE: 1072",1
+"Borro idUsuarioExamen: 505890",1
+"PREREGISTRO: Pago de prueba: 194",1
+"PREREGISTRO: Pago de prueba: 473",1
+"PREREGISTRO: Pago de prueba: 339",1
+"PREREGISTRO: Registrar a usuario en POE: 678",1
+"PREREGISTRO: Registrar a usuario en POE: 870",1
+"Registro Masivo:  total: 807 Guardados: 792 Rechazados: 15 -> id_escuela_facultad: 86",1
+"PREREGISTRO: Registrar a usuario en POE: 150",1
+"PREREGISTRO: Pago de prueba: 1032",1
+"PREREGISTRO: Pago de prueba: 418",1
+"PREREGISTRO: Pago de prueba: 283",1
+"PREREGISTRO: Registrar a usuario en POE: 641",1
+"PREREGISTRO: Registrar a usuario en POE: 818",1
+"Descargó CSV -> id_escuela_facultad: 119020",1
+"PREREGISTRO: Pago de prueba: 115",1
+"PREREGISTRO: Pago de prueba: 983",1
+"PREREGISTRO: Pago de prueba: 392",1
+"PREREGISTRO: Registrar a usuario en POE: 297",1
+"PREREGISTRO: Pago de prueba: 611",1
+"PREREGISTRO: Registrar a usuario en POE: 796",1
+"Registro Masivo:  total: 5 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 72",1
+"PREREGISTRO: Pago de prueba: 941",1
+"PREREGISTRO: Pago de prueba: 460",1
+"PREREGISTRO: Pago de prueba: 13",1
+"Registro Masivo: Error al guardar a los alumnos total: 17 Guardados: 6 Rechazados: 10 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 546",1
+"PREREGISTRO: Registrar a usuario en POE: 727",1
+"Descargó CSV -> id_escuela_facultad: 106030",1
+"PREREGISTRO: Registrar a usuario en POE: 915",1
+"Registro Masivo: Error al guardar a los alumnos total: 0 Guardados: 0 Rechazados: 0 -> id_escuela_facultad: 91",1
+"Borro idUsuarioExamen: 540006",1
+"Registro Masivo:  total: 800 Guardados: 766 Rechazados: 34 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 483",1
+"Registro Masivo:  total: 672 Guardados: 672 Rechazados: 0 -> id_escuela_facultad: 89",1
+"Registro Masivo:  total: 14 Guardados: 13 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 694",1
+"PREREGISTRO: Pago de prueba: 866",1
+"Registro Masivo:  total: 906 Guardados: 0 Rechazados: 906 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Pago de prueba: 163",1
+"PREREGISTRO: Pago de prueba: 1040",1
+"PREREGISTRO: Registrar a usuario en POE: 432",1
+"PREREGISTRO: Registrar a usuario en POE: 281",1
+"Descargó CSV -> id_escuela_facultad: 77662",1
+"PREREGISTRO: Pago de prueba: 657",1
+"PREREGISTRO: Registrar a usuario en POE: 823",1
+"Descargó CSV  -> id_escuela_facultad: 241",1
+"PREREGISTRO: Registrar a usuario en POE: 115",1
+"PREREGISTRO: Pago de prueba: 994",1
+"PREREGISTRO: Pago de prueba: 399",1
+"PREREGISTRO: Pago de prueba: 245",1
+"PREREGISTRO: Registrar a usuario en POE: 606",1
+"PREREGISTRO: Registrar a usuario en POE: 802",1
+"Descargó CSV -> id_escuela_facultad: 104545",1
+"PREREGISTRO: Registrar a usuario en POE: 937",1
+"PREREGISTRO: Registrar a usuario en POE: 507",1
+"PREREGISTRO: Pago de prueba: 30",1
+"PREREGISTRO: Pago de prueba: 217",1
+"PREREGISTRO: Pago de prueba: 560",1
+"PREREGISTRO: Pago de prueba: 743",1
+"PREREGISTRO: Registrar a usuario en POE: 924",1
+"PREREGISTRO: Registrar a usuario en POE: 334",1
+"Descargó CSV -> id_escuela_facultad: 148814",1
+"Registro Masivo:  total: 850 Guardados: 849 Rechazados: 1 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 495",1
+"PREREGISTRO: Pago de prueba: 703",1
+"Descargó CSV -> id_escuela_facultad: 96797",1
+"PREREGISTRO: Registrar a usuario en POE: 895",1
+"PREREGISTRO: Registrar a usuario en POE: 1046",1
+"Registro Masivo: Error al guardar a los alumnos total: 17 Guardados: 0 Rechazados: 16 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 168",1
+"PREREGISTRO: Registrar a usuario en POE: 440",1
+"PREREGISTRO: Pago de prueba: 308",1
+"Descargó CSV -> id_escuela_facultad: 60443",1
+"PREREGISTRO: Registrar a usuario en POE: 653",1
+"PREREGISTRO: Pago de prueba: 831",1
+"PREREGISTRO: Registrar a usuario en POE: 126",1
+"PREREGISTRO: Pago de prueba: 1003",1
+"PREREGISTRO: Registrar a usuario en POE: 393",1
+"PREREGISTRO: Pago de prueba: 256",1
+"PREREGISTRO: Pago de prueba: 622",1
+"PREREGISTRO: Registrar a usuario en POE: 566",1
+"Registro Masivo:  total: 1735 Guardados: 1625 Rechazados: 110 -> id_escuela_facultad: 86",1
+"PREREGISTRO: Pago de prueba: 88",1
+"PREREGISTRO: Pago de prueba: 952",1
+"PREREGISTRO: Registrar a usuario en POE: 27",1
+"PREREGISTRO: Registrar a usuario en POE: 228",1
+"PREREGISTRO: Registrar a usuario en POE: 580",1
+"PREREGISTRO: Pago de prueba: 752",1
+"Descargó CSV -> id_escuela_facultad: 66780",1
+"PREREGISTRO: Pago de prueba: 52",1
+"PREREGISTRO: Registrar a usuario en POE: 929",1
+"Registro Masivo:  total: 58 Guardados: 18 Rechazados: 40 -> id_escuela_facultad: 229",1
+"Borro idUsuarioExamen: 1678784",1
+"PREREGISTRO: Pago de prueba: 506",1
+"PREREGISTRO: Registrar a usuario en POE: 699",1
+"Registro Masivo:  total: 1299 Guardados: 1231 Rechazados: 68 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Pago de prueba: 851",1
+"Registro Masivo:  total: 800 Guardados: 797 Rechazados: 3 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 175",1
+"PREREGISTRO: Registrar a usuario en POE: 451",1
+"PREREGISTRO: Registrar a usuario en POE: 317",1
+"PREREGISTRO: Registrar a usuario en POE: 669",1
+"PREREGISTRO: Registrar a usuario en POE: 852",1
+"Registro Masivo: Error al guardar a los alumnos total: 15 Guardados: 0 Rechazados: 14 -> id_escuela_facultad: 10028",1
+"PREREGISTRO: Registrar a usuario en POE: 132",1
+"PREREGISTRO: Pago de prueba: 1012",1
+"PREREGISTRO: Pago de prueba: 408",1
+"PREREGISTRO: Registrar a usuario en POE: 233",1
+"PREREGISTRO: Pago de prueba: 630",1
+"PREREGISTRO: Registrar a usuario en POE: 757",1
+"PREREGISTRO: Registrar a usuario en POE: 630",1
+"PREREGISTRO: Registrar a usuario en POE: 758",1
+"Registro Masivo:  total: 748 Guardados: 748 Rechazados: 0 -> id_escuela_facultad: 94",1
+"PREREGISTRO: Pago de prueba: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 964",1
+"Registro Masivo:  total: 193 Guardados: 35 Rechazados: 158 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Pago de prueba: 37",1
+"PREREGISTRO: Deshabilitar usuario: 215",1
+"PREREGISTRO: Pago de prueba: 592",1
+"PREREGISTRO: Registrar a usuario en POE: 776",1
+"Descargó CSV -> id_escuela_facultad: 99964",1
+"PREREGISTRO: Registrar a usuario en POE: 55",1
+"PREREGISTRO: Pago de prueba: 346",1
+"Registro Masivo:  total: 750 Guardados: 485 Rechazados: 265 -> id_escuela_facultad: 90",1
+"Registro Masivo: Error al guardar a los alumnos total: 25 Guardados: 0 Rechazados: 24 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 520",1
+"PREREGISTRO: Registrar a usuario en POE: 716",1
+"Descargó CSV -> id_escuela_facultad: 98308",1
+"PREREGISTRO: Registrar a usuario en POE: 842",1
+"Borro idUsuarioExamen: 2173365",1
+"Registro Masivo:  total: 486 Guardados: 482 Rechazados: 4 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Pago de prueba: 185",1
+"PREREGISTRO: Registrar a usuario en POE: 462",1
+"PREREGISTRO: Registrar a usuario en POE: 326",1
+"PREREGISTRO: Pago de prueba: 683",1
+"PREREGISTRO: Registrar a usuario en POE: 865",1
+"Registro Masivo: Error al guardar a los alumnos total: 33 Guardados: 0 Rechazados: 32 -> id_escuela_facultad: 10026",1
+"PREREGISTRO: Pago de prueba: 149",1
+"PREREGISTRO: Registrar a usuario en POE: 1023",1
+"PREREGISTRO: Pago de prueba: 420",1
+"PREREGISTRO: Pago de prueba: 267",1
+"PREREGISTRO: Pago de prueba: 639",1
+"PREREGISTRO: Registrar a usuario en POE: 800",1
+"Registro Masivo:  total: 801 Guardados: 801 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 104",1
+"PREREGISTRO: Registrar a usuario en POE: 973",1
+"PREREGISTRO: Pago de prueba: 347",1
+"PREREGISTRO: Registrar a usuario en POE: 288",1
+"PREREGISTRO: Registrar a usuario en POE: 595",1
+"PREREGISTRO: Pago de prueba: 789",1
+"Descargó CSV -> id_escuela_facultad: 106376",1
+"PREREGISTRO: Pago de prueba: 66",1
+"Registro Masivo:  total: 74 Guardados: 8 Rechazados: 66 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 485",1
+"PREREGISTRO: Pago de prueba: 6",1
+"PREREGISTRO: Registrar a usuario en POE: 203",1
+"PREREGISTRO: Pago de prueba: 732",1
+"PREREGISTRO: Pago de prueba: 906",1
+"PREREGISTRO: Registrar a usuario en POE: 1069",1
+"Borro idUsuarioExamen: 460490",1
+"PREREGISTRO: Pago de prueba: 195",1
+"PREREGISTRO: Registrar a usuario en POE: 473",1
+"PREREGISTRO: Pago de prueba: 338",1
+"Registro Masivo:  total: 5 Guardados: 5 Rechazados: 0 -> id_escuela_facultad: 21",1
+"PREREGISTRO: Registrar a usuario en POE: 679",1
+"PREREGISTRO: Registrar a usuario en POE: 868",1
+"Registro Masivo:  total: 770 Guardados: 747 Rechazados: 23 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Registrar a usuario en POE: 151",1
+"PREREGISTRO: Registrar a usuario en POE: 1032",1
+"PREREGISTRO: Registrar a usuario en POE: 418",1
+"PREREGISTRO: Pago de prueba: 290",1
+"PREREGISTRO: Registrar a usuario en POE: 642",1
+"PREREGISTRO: Registrar a usuario en POE: 806",1
+"Borro idUsuarioExamen: 501493",1
+"PREREGISTRO: Pago de prueba: 116",1
+"PREREGISTRO: Registrar a usuario en POE: 983",1
+"PREREGISTRO: Pago de prueba: 393",1
+"PREREGISTRO: Pago de prueba: 295",1
+"PREREGISTRO: Pago de prueba: 612",1
+"PREREGISTRO: Registrar a usuario en POE: 795",1
+"Descargó CSV -> id_escuela_facultad: 107651",1
+"PREREGISTRO: Pago de prueba: 73",1
+"PREREGISTRO: Pago de prueba: 942",1
+"PREREGISTRO: Registrar a usuario en POE: 460",1
+"PREREGISTRO: Pago de prueba: 14",1
+"Registro Masivo: Error al guardar a los alumnos total: 118 Guardados: 110 Rechazados: 7 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 546",1
+"PREREGISTRO: Registrar a usuario en POE: 728",1
+"Descargó CSV -> id_escuela_facultad: 106473",1
+"PREREGISTRO: Pago de prueba: 916",1
+"Registro Masivo:  total: 119 Guardados: 37 Rechazados: 82 -> id_escuela_facultad: 91",1
+"Borro idUsuarioExamen: 539997",1
+"Registro Masivo:  total: 901 Guardados: 866 Rechazados: 35 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Registrar a usuario en POE: 483",1
+"Registro Masivo:  total: 800 Guardados: 768 Rechazados: 32 -> id_escuela_facultad: 90",1
+"Descargó CSV -> id_escuela_facultad: 96765",1
+"PREREGISTRO: Registrar a usuario en POE: 694",1
+"PREREGISTRO: Registrar a usuario en POE: 866",1
+"Registro Masivo:  total: 749 Guardados: 0 Rechazados: 749 -> id_escuela_facultad: 93",1
+"PREREGISTRO: Registrar a usuario en POE: 156",1
+"PREREGISTRO: Registrar a usuario en POE: 1040",1
+"PREREGISTRO: Pago de prueba: 433",1
+"PREREGISTRO: Registrar a usuario en POE: 275",1
+"Descargó CSV -> id_escuela_facultad: 77664",1
+"PREREGISTRO: Pago de prueba: 658",1
+"PREREGISTRO: Registrar a usuario en POE: 822",1
+"Descargó CSV  -> id_escuela_facultad: 325",1
+"PREREGISTRO: Registrar a usuario en POE: 116",1
+"PREREGISTRO: Registrar a usuario en POE: 994",1
+"PREREGISTRO: Pago de prueba: 396",1
+"PREREGISTRO: Pago de prueba: 208",1
+"PREREGISTRO: Registrar a usuario en POE: 607",1
+"PREREGISTRO: Registrar a usuario en POE: 803",1
+"Descargó CSV -> id_escuela_facultad: 98232",1
+"PREREGISTRO: Pago de prueba: 81",1
+"PREREGISTRO: Registrar a usuario en POE: 938",1
+"PREREGISTRO: Registrar a usuario en POE: 508",1
+"PREREGISTRO: Pago de prueba: 31",1
+"PREREGISTRO: Pago de prueba: 214",1
+"PREREGISTRO: Registrar a usuario en POE: 560",1
+"PREREGISTRO: Pago de prueba: 744",1
+"Descargó CSV -> id_escuela_facultad: 112117",1
+"PREREGISTRO: Registrar a usuario en POE: 919",1
+"PREREGISTRO: Registrar a usuario en POE: 336",1
+"Registro Masivo:  total: 79 Guardados: 79 Rechazados: 0 -> id_escuela_facultad: 239",1
+"Registro Masivo:  total: 850 Guardados: 842 Rechazados: 8 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 495",1
+"PREREGISTRO: Pago de prueba: 704",1
+"Descargó CSV -> id_escuela_facultad: 96798",1
+"PREREGISTRO: Registrar a usuario en POE: 890",1
+"PREREGISTRO: Pago de prueba: 1047",1
+"Registro Masivo:  total: 17 Guardados: 0 Rechazados: 17 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 169",1
+"PREREGISTRO: Pago de prueba: 441",1
+"PREREGISTRO: Pago de prueba: 309",1
+"Descargó CSV -> id_escuela_facultad: 41176",1
+"PREREGISTRO: Registrar a usuario en POE: 654",1
+"PREREGISTRO: Pago de prueba: 830",1
+"PREREGISTRO: Registrar a usuario en POE: 127",1
+"PREREGISTRO: Registrar a usuario en POE: 1003",1
+"PREREGISTRO: Registrar a usuario en POE: 394",1
+"PREREGISTRO: Pago de prueba: 257",1
+"PREREGISTRO: Registrar a usuario en POE: 622",1
+"PREREGISTRO: Registrar a usuario en POE: 567",1
+"PREREGISTRO: Registrar a usuario en POE: 87",1
+"PREREGISTRO: Registrar a usuario en POE: 952",1
+"Registro Masivo:  total: 182 Guardados: 182 Rechazados: 0 -> id_escuela_facultad: 96",1
+"PREREGISTRO: Registrar a usuario en POE: 28",1
+"PREREGISTRO: Registrar a usuario en POE: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 581",1
+"PREREGISTRO: Pago de prueba: 756",1
+"Descargó CSV -> id_escuela_facultad: 105176",1
+"PREREGISTRO: Pago de prueba: 53",1
+"PREREGISTRO: Pago de prueba: 962",1
+"PREREGISTRO: Registrar a usuario en POE: 380",1
+"Descargó CSV -> id_escuela_facultad: 143925",1
+"Registro Masivo:  total: 23 Guardados: 23 Rechazados: 0 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 506",1
+"PREREGISTRO: Registrar a usuario en POE: 700",1
+"Registro Masivo:  total: 1726 Guardados: 1602 Rechazados: 124 -> id_escuela_facultad: 89",1
+"PREREGISTRO: Pago de prueba: 876",1
+"PREREGISTRO: Pago de prueba: 1057",1
+"Registro Masivo:  total: 800 Guardados: 799 Rechazados: 1 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 176",1
+"PREREGISTRO: Pago de prueba: 452",1
+"PREREGISTRO: Reenvío información: 308",1
+"PREREGISTRO: Registrar a usuario en POE: 849",1
+"Registro Masivo: Error al guardar a los alumnos total: 16 Guardados: 0 Rechazados: 15 -> id_escuela_facultad: 10029",1
+"PREREGISTRO: Registrar a usuario en POE: 131",1
+"PREREGISTRO: Registrar a usuario en POE: 408",1
+"PREREGISTRO: Registrar a usuario en POE: 234",1
+"PREREGISTRO: Registrar a usuario en POE: 249",1
+"PREREGISTRO: Pago de prueba: 631",1
+"PREREGISTRO: Registrar a usuario en POE: 759",1
+"PREREGISTRO: Pago de prueba: 100",1
+"PREREGISTRO: Pago de prueba: 966",1
+"Registro Masivo:  total: 179 Guardados: 46 Rechazados: 133 -> id_escuela_facultad: 98",1
+"PREREGISTRO: Deshabilitar usuario: 222",1
+"PREREGISTRO: Pago de prueba: 593",1
+"PREREGISTRO: Registrar a usuario en POE: 778",1
+"Descargó CSV -> id_escuela_facultad: 110838",1
+"PREREGISTRO: Registrar a usuario en POE: 56",1
+"Registro Masivo: Error al guardar a los alumnos total: 19 Guardados: 3 Rechazados: 15 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 351",1
+"Registro Masivo:  total: 750 Guardados: 724 Rechazados: 26 -> id_escuela_facultad: 90",1
+"Registro Masivo: Error al guardar a los alumnos total: 335 Guardados: 309 Rechazados: 25 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Pago de prueba: 522",1
+"PREREGISTRO: Registrar a usuario en POE: 717",1
+"Descargó CSV -> id_escuela_facultad: 98310",1
+"PREREGISTRO: Registrar a usuario en POE: 845",1
+"PREREGISTRO: Pago de prueba: 1074",1
+"Registro Masivo:  total: 486 Guardados: 0 Rechazados: 486 -> id_escuela_facultad: 99",1
+"PREREGISTRO: Registrar a usuario en POE: 184",1
+"PREREGISTRO: Pago de prueba: 463",1
+"PREREGISTRO: Registrar a usuario en POE: 327",1
+"Descargó CSV -> id_escuela_facultad: 78023",1
+"PREREGISTRO: Pago de prueba: 684",1
+"PREREGISTRO: Registrar a usuario en POE: 859",1
+"Registro Masivo: Error al guardar a los alumnos total: 34 Guardados: 0 Rechazados: 33 -> id_escuela_facultad: 10027",1
+"PREREGISTRO: Registrar a usuario en POE: 139",1
+"PREREGISTRO: Pago de prueba: 1024",1
+"PREREGISTRO: Pago de prueba: 419",1
+"PREREGISTRO: Pago de prueba: 268",1
+"PREREGISTRO: Pago de prueba: 640",1
+"Borro idUsuarioExamen: 2134477",1
+"Registro Masivo:  total: 1000 Guardados: 998 Rechazados: 2 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Registrar a usuario en POE: 99",1
+"PREREGISTRO: Pago de prueba: 974",1
+"PREREGISTRO: Pago de prueba: 348",1
+"PREREGISTRO: Registrar a usuario en POE: 596",1
+"PREREGISTRO: Pago de prueba: 792",1
+"Descargó CSV -> id_escuela_facultad: 99376",1
+"PREREGISTRO: Registrar a usuario en POE: 66",1
+"Registro Masivo:  total: 21 Guardados: 4 Rechazados: 17 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 485",1
+"PREREGISTRO: Pago de prueba: 7",1
+"PREREGISTRO: Pago de prueba: 206",1
+"PREREGISTRO: Pago de prueba: 535",1
+"PREREGISTRO: Pago de prueba: 733",1
+"PREREGISTRO: Registrar a usuario en POE: 1071",1
+"Borro idUsuarioExamen: 460438",1
+"PREREGISTRO: Pago de prueba: 196",1
+"PREREGISTRO: Pago de prueba: 474",1
+"PREREGISTRO: Pago de prueba: 337",1
+"PREREGISTRO: Registrar a usuario en POE: 680",1
+"PREREGISTRO: Registrar a usuario en POE: 867",1
+"Registro Masivo:  total: 756 Guardados: 670 Rechazados: 86 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Registrar a usuario en POE: 152",1
+"PREREGISTRO: Pago de prueba: 1033",1
+"PREREGISTRO: Registrar a usuario en POE: 420",1
+"PREREGISTRO: Registrar a usuario en POE: 264",1
+"PREREGISTRO: Registrar a usuario en POE: 643",1
+"Descargó CSV -> id_escuela_facultad: 116090",1
+"PREREGISTRO: Pago de prueba: 117",1
+"PREREGISTRO: Pago de prueba: 985",1
+"PREREGISTRO: Pago de prueba: 394",1
+"PREREGISTRO: Pago de prueba: 294",1
+"PREREGISTRO: Pago de prueba: 613",1
+"PREREGISTRO: Registrar a usuario en POE: 786",1
+"Descargó CSV -> id_escuela_facultad: 73689",1
+"PREREGISTRO: Registrar a usuario en POE: 73",1
+"PREREGISTRO: Pago de prueba: 943",1
+"PREREGISTRO: Pago de prueba: 493",1
+"PREREGISTRO: Pago de prueba: 15",1
+"PREREGISTRO: Pago de prueba: 547",1
+"PREREGISTRO: Registrar a usuario en POE: 729",1
+"Descargó CSV -> id_escuela_facultad: 112122",1
+"Registro Masivo:  total: 291 Guardados: 93 Rechazados: 198 -> id_escuela_facultad: 92",1
+"Borro idUsuarioExamen: 539993",1
+"PREREGISTRO: Pago de prueba: 484",1
+"Registro Masivo:  total: 800 Guardados: 563 Rechazados: 237 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 695",1
+"PREREGISTRO: Registrar a usuario en POE: 888",1
+"Registro Masivo:  total: 850 Guardados: 819 Rechazados: 31 -> id_escuela_facultad: 94",1
+"PREREGISTRO: Registrar a usuario en POE: 157",1
+"PREREGISTRO: Registrar a usuario en POE: 433",1
+"Descargó CSV -> id_escuela_facultad: 39988",1
+"PREREGISTRO: Pago de prueba: 659",1
+"PREREGISTRO: Registrar a usuario en POE: 819",1
+"Descargó CSV -> id_escuela_facultad: 145650",1
+"PREREGISTRO: Registrar a usuario en POE: 117",1
+"PREREGISTRO: Pago de prueba: 995",1
+"PREREGISTRO: Pago de prueba: 395",1
+"PREREGISTRO: Pago de prueba: 213",1
+"PREREGISTRO: Registrar a usuario en POE: 608",1
+"Borro idUsuarioExamen: 2087212",1
+"Descargó CSV -> id_escuela_facultad: 112412",1
+"PREREGISTRO: Registrar a usuario en POE: 939",1
+"PREREGISTRO: Pago de prueba: 32",1
+"PREREGISTRO: Registrar a usuario en POE: 214",1
+"PREREGISTRO: Pago de prueba: 563",1
+"PREREGISTRO: Pago de prueba: 745",1
+"Registro Masivo:  total: 25 Guardados: 24 Rechazados: 1 -> id_escuela_facultad: 229",1
+"PREREGISTRO: Registrar a usuario en POE: 913",1
+"PREREGISTRO: Registrar a usuario en POE: 340",1
+"Registro Masivo:  total: 850 Guardados: 844 Rechazados: 6 -> id_escuela_facultad: 97",1
+"PREREGISTRO: Pago de prueba: 497",1
+"PREREGISTRO: Pago de prueba: 705",1
+"PREREGISTRO: Deshabilitar usuario: 807",1
+"PREREGISTRO: Registrar a usuario en POE: 1047",1
+"PREREGISTRO: Registrar a usuario en POE: 167",1
+"PREREGISTRO: Registrar a usuario en POE: 441",1
+"PREREGISTRO: Pago de prueba: 310",1
+"Descargó CSV -> id_escuela_facultad: 77849",1
+"PREREGISTRO: Registrar a usuario en POE: 655",1
+"PREREGISTRO: Pago de prueba: 828",1
+"Registro Masivo: Error al guardar a los alumnos total: 2 Guardados: 0 Rechazados: 1 -> id_escuela_facultad: 10021",1
+"PREREGISTRO: Registrar a usuario en POE: 128",1
+"PREREGISTRO: Pago de prueba: 1004",1
+"PREREGISTRO: Registrar a usuario en POE: 395",1
+"PREREGISTRO: Pago de prueba: 258",1
+"PREREGISTRO: Pago de prueba: 623",1
+"PREREGISTRO: Registrar a usuario en POE: 568",1
+"Registro Masivo: Error al guardar a los alumnos total: 41 Guardados: 40 Rechazados: 0 -> id_escuela_facultad: 88",1
+"PREREGISTRO: Registrar a usuario en POE: 88",1
+"PREREGISTRO: Pago de prueba: 956",1
+"PREREGISTRO: Registrar a usuario en POE: 29",1
+"PREREGISTRO: Registrar a usuario en POE: 232",1
+"PREREGISTRO: Registrar a usuario en POE: 582",1
+"PREREGISTRO: Pago de prueba: 760",1
+"Descargó CSV -> id_escuela_facultad: 99696",1
+"PREREGISTRO: Pago de prueba: 54",1
+"PREREGISTRO: Registrar a usuario en POE: 962",1
+"PREREGISTRO: Deshabilitar usuario: 380",1
+"Borro idUsuarioExamen: 1780616",1
+"PREREGISTRO: Pago de prueba: 509",1
+"PREREGISTRO: Registrar a usuario en POE: 701",1
+"Registro Masivo:  total: 1463 Guardados: 1355 Rechazados: 108 -> id_escuela_facultad: 90",1
+"PREREGISTRO: Pago de prueba: 881",1
+"PREREGISTRO: Registrar a usuario en POE: 1057",1
+"Registro Masivo:  total: 106 Guardados: 105 Rechazados: 1 -> id_escuela_facultad: 95",1
+"PREREGISTRO: Pago de prueba: 177",1
+"PREREGISTRO: Registrar a usuario en POE: 452",1
+"PREREGISTRO: Registrar a usuario en POE: 320",1
+"PREREGISTRO: Pago de prueba: 672",1
+"PREREGISTRO: Registrar a usuario en POE: 799",1
+"Registro Masivo: Error al guardar a los alumnos total: 17 Guardados: 0 Rechazados: 16 -> id_escuela_facultad: 10021",1
+"PREREGISTRO: Registrar a usuario en POE: 130",1
+"PREREGISTRO: Pago de prueba: 1013",1
+"PREREGISTRO: Pago de prueba: 410",1

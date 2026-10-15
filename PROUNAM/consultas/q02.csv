@@ -1,0 +1,14 @@
+id_examen,c_nombreExamen,id_parte,c_nombreParte,id_seccion,c_nombreSeccion,reactivos,opciones
+1,PROUNAM,1,"No Aplica",5,"Aptitud Verbal",40,200
+1,PROUNAM,1,"No Aplica",6,"Aptitud Numérica",30,150
+1,PROUNAM,1,"No Aplica",7,"Ensable de Formas",30,120
+1,PROUNAM,1,"No Aplica",8,"Discriminación de figuras",45,225
+1,PROUNAM,1,"No Aplica",9,"Reconocimiento de palabras",45,180
+1,PROUNAM,1,"No Aplica",10,Criptogramas,45,225
+1,PROUNAM,1,"No Aplica",11,Razonamiento,30,120
+1,PROUNAM,1,"No Aplica",12,"Aptitud Mecánica",32,96
+1,PROUNAM,1,"No Aplica",13,"Uso del lenguaje",40,200
+2,INVOCA,1,"No Aplica",1,"No Aplica",126,504
+4,HYM,1,"No Aplica",14,"Perfil Interes",60,300
+4,HYM,1,"No Aplica",15,"Perfil Aptitud",60,300
+5,"INVOCA B",1,"No Aplica",1,"No Aplica",126,504

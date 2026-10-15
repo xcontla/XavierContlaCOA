@@ -1,0 +1,11 @@
+id_examen,id_parte,id_seccion,c_nombreSeccion,secciones_abiertas,con_respuesta,pct
+1,1,5,"Aptitud Verbal",192883,192860,100.0
+1,1,6,"Aptitud Numérica",192109,192023,100.0
+1,1,7,"Ensable de Formas",191601,191588,100.0
+1,1,8,"Discriminación de figuras",191332,191324,100.0
+1,1,9,"Reconocimiento de palabras",191204,191197,100.0
+1,1,10,Criptogramas,191039,191030,100.0
+1,1,11,Razonamiento,190764,190715,100.0
+1,1,12,"Aptitud Mecánica",190340,190284,100.0
+1,1,13,"Uso del lenguaje",189965,189913,100.0
+2,1,1,"No Aplica",189390,189344,100.0

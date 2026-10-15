@@ -1,0 +1,11 @@
+id_examen,id_seccion,c_nombreSeccion,casos,min_prom,min_max
+1,5,"Aptitud Verbal",17968,36.0,241.0
+1,6,"Aptitud Numérica",17790,46.7,240.9
+1,7,"Ensable de Formas",17783,38.5,241.0
+1,8,"Discriminación de figuras",17792,37.8,240.9
+1,9,"Reconocimiento de palabras",17771,38.8,241.0
+1,10,Criptogramas,17785,40.0,241.0
+1,11,Razonamiento,17807,46.0,241.0
+1,12,"Aptitud Mecánica",17890,49.4,241.0
+1,13,"Uso del lenguaje",18065,54.5,241.0
+2,1,"No Aplica",18215,57.6,241.0

@@ -1,0 +1,9 @@
+id_examen,c_nombreExamen,secciones_iniciadas,secciones_concluidas,pct_conclusion
+1,"MEPSI 1 A",26726,26721,100.0
+2,"MEPSI 1 B",26719,26706,100.0
+3,"MEPSI 2 A",26697,26696,100.0
+4,"MEPSI 2 B",26693,26692,100.0
+5,"MEPSI 2 C",26687,26682,100.0
+6,"MEPSI 3 A",26502,26487,99.9
+7,"MEPSI 3 B",26476,26462,99.9
+8,"MEPSI 3 C",26462,26454,100.0

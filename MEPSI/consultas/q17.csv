@@ -1,0 +1,2 @@
+version_mysql,charset,max_conexiones
+5.7.31-log,latin1,1200
